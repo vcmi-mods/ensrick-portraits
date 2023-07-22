@@ -1,0 +1,13 @@
+{
+    "name" : "ToW - Alternative Hero Portraits",
+    "description" : "Replaces portraits for the Tides of War heroes.",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+	"contact" : "https://forum.vcmi.eu/t/ensricks-portrait-pack-for-vcmi/6028",
+    "version" : "1.0",
+	"keepDisabled" : true,
+    "depends" :
+    [
+        "tides-of-war"
+    ]
+}

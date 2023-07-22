@@ -1,0 +1,19 @@
+{
+    "name" : "Ensrick's Portrait Pack",
+    "description" : "Replaces portraits for heroes. Used a combination of Stable Diffusion, DALL-E 2 and my own GIMP edits.",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+    "author" : "Ensrick",
+	"contact" : "https://forum.vcmi.eu/t/ensricks-portrait-pack-for-vcmi/6028",
+    "modType" : "Graphical",
+    "version" : "1.1",
+	"compatibility" :
+	{
+		"min" : "1.3.0"
+	},
+    "changelog" :
+    {
+        "1.0"   : [ "Initial release" ],
+		"1.1"   : [ "Added more packs" ]
+    } 	
+}

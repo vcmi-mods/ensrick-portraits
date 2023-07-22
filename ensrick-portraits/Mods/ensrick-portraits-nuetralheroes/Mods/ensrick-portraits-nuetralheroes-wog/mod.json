@@ -1,0 +1,10 @@
+{
+    "name" : "Neutral Heroes - Alternative WoG Hero Portraits",
+    "description" : "Replaces portraits for the Neutral Heroes' WoG submod.",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "depends" :
+    [
+        "neutral-heroes.wog_heroes"
+    ]
+}

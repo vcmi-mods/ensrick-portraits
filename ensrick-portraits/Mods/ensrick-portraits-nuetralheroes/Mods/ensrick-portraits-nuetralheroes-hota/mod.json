@@ -1,0 +1,10 @@
+{
+    "name" : "Neutral Heroes - Alternative HotA Hero Portraits",
+    "description" : "Replaces portraits for the Neutral Heroes' HotA submod.",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "depends" :
+    [
+        "neutral-heroes.hota_heroes"
+    ]
+}
