@@ -2,7 +2,7 @@
     "name" : "Campaign Heroes - Alternative Catherine and Alkin",
     "description" : "Replaces portraits for the Campaign Heroes mod which enables all campaign heroes for standard scenarios. This includes just two new portraits: the HotA campaign variant of younger Alkin and the original campaign version of younger Catherine from Restoration of Erathia.",
     "author" : "Ensrick",
-    "modType" : "Graphical",
+    "modType" : "Compatibility",
 	"contact" : "https://forum.vcmi.eu/t/ensricks-portrait-pack-for-vcmi/6028",
     "version" : "1.0",
     "depends" :

@@ -2,8 +2,8 @@
     "name" : "HotA - Alternative Giselle",
     "description" : "Replaces portraits for the HotA Interference Heroes, of which, the only new one is the ranger, Giselle.",
     "author" : "Ensrick",
-    "modType" : "Graphical",
-	"keepDisabled" : true,
+    "modType" : "Compatibility",
+	"keepDisabled" : false,
 	"contact" : "https://forum.vcmi.eu/t/ensricks-portrait-pack-for-vcmi/6028",
     "version" : "1.0",
     "depends" :
