@@ -5,6 +5,6 @@
     "modType" : "Graphical",
     "depends" :
     [
-        "neutral-heroes.hota_heroes"
+        "neutral-heroes.hotaneutralheroes"
     ]
 }

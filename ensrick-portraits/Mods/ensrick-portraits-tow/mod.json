@@ -8,6 +8,6 @@
 	"keepDisabled" : false,
     "depends" :
     [
-        "tides-of-war"
+        "tides-of-war.heroes"
     ]
 }
