@@ -5,6 +5,6 @@
     "modType" : "Graphical",
     "depends" :
     [
-        "neutral-heroes.wog_heroes"
+        "neutral-heroes.wogneutralheroes"
     ]
 }
