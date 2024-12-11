@@ -4,5 +4,12 @@
     "author" : "Ensrick",
     "modType" : "Graphical",
 	"contact" : "https://forum.vcmi.eu/t/ensricks-portrait-pack-for-vcmi/6028",
-    "version" : "1.0"
+    "version" : "1.0",
+	"softDepends" : [
+		"hota.heroes3datapatch"
+	],
+	"czech" : {
+		"name": "Alternativní portréty původních hrdinů",
+		"description": "Nahrazuje portréty původních hrdinů z Heroes 3"
+	}
 }

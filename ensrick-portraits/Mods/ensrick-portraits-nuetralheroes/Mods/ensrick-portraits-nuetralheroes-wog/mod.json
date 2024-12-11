@@ -3,6 +3,9 @@
     "description" : "Replaces portraits for the Neutral Heroes' WoG submod.",
     "author" : "Ensrick",
     "modType" : "Graphical",
+	"version" : "1.0",
+	"contact" : "https://forum.vcmi.eu/t/ensricks-portrait-pack-for-vcmi/6028",
+	
     "depends" :
     [
         "neutral-heroes.wogneutralheroes"

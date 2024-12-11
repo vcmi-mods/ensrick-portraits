@@ -8,5 +8,8 @@
     "depends" :
     [
         "campaign-heroes"
-    ]
+    ],
+	"softDepends" : [
+		"hota.heroes3datapatch"
+	]
 }
