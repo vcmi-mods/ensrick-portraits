@@ -1,0 +1,28 @@
+{
+    "name" : "Zubin",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Zubin"
+    },
+    "chinese" : {
+        "name": "祖宾"
+    },
+    "german" : {
+        "name": "Zubin"
+    },
+    "hungarian" : {
+        "name": "Zubin"
+    },
+    "polish" : {
+        "name": "Zubin"
+    },
+    "russian" : {
+        "name": "Зубин"
+    },
+    "swedish" : {
+        "name": "Zubin"
+    },
+    "ukrainian" : {
+        "name": "Зубін"
+    }
+}

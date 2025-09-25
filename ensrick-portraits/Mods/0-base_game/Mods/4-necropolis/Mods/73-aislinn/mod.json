@@ -1,0 +1,28 @@
+{
+    "name" : "Aislinn",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Aislinn"
+    },
+    "chinese" : {
+        "name": "艾丝琳"
+    },
+    "german" : {
+        "name": "Aislinn"
+    },
+    "hungarian" : {
+        "name": "Aislinn"
+    },
+    "polish" : {
+        "name": "Aislinn"
+    },
+    "russian" : {
+        "name": "Эйслинн"
+    },
+    "swedish" : {
+        "name": "Aislinn"
+    },
+    "ukrainian" : {
+        "name": "Ейслінн"
+    }
+}

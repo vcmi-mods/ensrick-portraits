@@ -1,37 +1,60 @@
 {
     "name" : "Ensrick's Portrait Pack",
-    "description" : "Replaces portraits for heroes. Used a combination of Stable Diffusion, DALL-E 2 and my own GIMP edits.",
-	"licenseName" : "Creative Commons Attribution-ShareAlike",
-	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+    "description" : "These portraits were created using a combination of Photoshop and hundreds of AI images for layers via the KREA.AI website's realtime image to image, upscaler, and editor tools. The models used were Flux, Nano-Banana, and KREA.AI's HD model.",
+    "licenseName" : "Creative Commons Attribution-ShareAlike",
+    "licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
     "author" : "Ensrick",
-	"contact" : "https://forum.vcmi.eu/t/ensricks-portrait-pack-for-vcmi/6028",
+    "contact" : "https://forum.vcmi.eu/t/ensricks-portrait-pack-for-vcmi/6028",
     "modType" : "Graphical",
-    "version" : "1.5",
-	"compatibility" :
-	{
-		"min" : "1.3.0"
-	},
-	"conflicts" : [
-		"portraits-packs"
-	],
-	"softDepends" : [
-		"hota.heroes3datapatch"
-	],
+    "version" : "2.0",
+    "compatibility" :
+    {
+        "min" : "1.6.8"
+    },
+    "conflicts" : [
+        "portraits-packs"
+    ],
+    "softDepends" : [
+        "hota.heroes3datapatch"
+    ],
     "changelog" :
     {
         "1.0"   : [ "Initial release" ],
-		"1.1"   : [ "Added more packs" ],
-		"1.2"   : [ "Better submods system compatibility" ],
-		"1.3"   : [ "Fix for submods system compatibility" ],
-		"1.4"   : [ "Czech translation by George King" ]
-		"1.5"   : [ "Chinese description translation added by Zerodys" ]
+        "1.1"   : [ "Added more packs" ],
+        "1.2"   : [ "Better submods system compatibility" ],
+        "1.3"   : [ "Fix for submods system compatibility" ],
+        "2.0"   : [ "Rebuild of portraits from the ground up for HD interface, removed submods for HotA, ToW etc. until I can remake them, added 3 new submods" ]
     },
-	"czech" : {
-		"name": "Ensrickův balíček portrétů",
-		"description": "Nahrazuje portréty hrdinů. Využívá kombinaci Stable Diffusion, DALL-E 2 a manuálních úprav v GIMPu."
-	}
-	"chinese" : {
-		"name": "Ensrick英雄肖像包",
-		"description": "替换英雄的肖像。使用了Stable Diffusion、DALL-E 2和GIMP进行编辑。（绝大部分肖像在保持了原版英雄的风格上进行了高清化，推荐！）"
-	}
+    "czech" : {
+        "name": "Balíček portrétů od Ensricka",
+        "description": "Tyto portréty byly vytvořeny kombinací Photoshopu a stovek AI obrázků pomocí nástrojů KREA.AI (realtime image to image, upscaler, editor). Použité modely: Flux, Nano-Banana a HD model KREA.AI."
+    },
+    "chinese" : {
+        "name": "Ensrick 的头像包",
+        "description": "这些头像是通过 Photoshop 与数百张 AI 图像分层制作完成的，使用了 KREA.AI 网站的实时图像转换、放大和编辑工具。使用的模型包括 Flux、Nano-Banana 和 KREA.AI 的 HD 模型。"
+    },
+    "german" : {
+        "name": "Ensricks Porträtpaket",
+        "description": "Diese Porträts wurden mit einer Kombination aus Photoshop und Hunderten von KI-Bildern erstellt, die über KREA.AI (Realtime Image-to-Image, Upscaler, Editor) verarbeitet wurden. Verwendete Modelle: Flux, Nano-Banana und das HD-Modell von KREA.AI."
+    },
+    "hungarian" : {
+        "name": "Ensrick portrécsomagja",
+        "description": "Ezek a portrék Photoshop és több száz AI-kép rétegezésével készültek a KREA.AI valós idejű eszközeivel (image-to-image, upscaler, editor). Használt modellek: Flux, Nano-Banana és KREA.AI HD modell."
+    },
+    "polish" : {
+        "name": "Paczka portretów Ensricka",
+        "description": "Portrety stworzone przy użyciu Photoshopa oraz setek obrazów AI, z wykorzystaniem narzędzi KREA.AI (image-to-image, upscaler, edytor). Wykorzystane modele: Flux, Nano-Banana i HD model KREA.AI."
+    },
+    "russian" : {
+        "name": "Пакет портретов от Ensrick",
+        "description": "Эти портреты созданы с помощью Photoshop и сотен изображений ИИ через инструменты сайта KREA.AI (image-to-image, upscaler, editor). Используемые модели: Flux, Nano-Banana и HD-модель KREA.AI."
+    },
+    "swedish" : {
+        "name": "Ensricks porträttpaket",
+        "description": "Dessa porträtt skapades med en kombination av Photoshop och hundratals AI-bilder via KREA.AI:s verktyg (realtids image-to-image, upscaler, editor). Använda modeller: Flux, Nano-Banana och KREA.AI:s HD-modell."
+    },
+    "ukrainian" : {
+        "name": "Пакет портретів від Ensrick",
+        "description": "Ці портрети були створені за допомогою Photoshop і сотень зображень ШІ, використовуючи інструменти сайту KREA.AI (realtime image-to-image, upscaler, editor). Використані моделі: Flux, Nano-Banana та HD-модель KREA.AI."
+    }
 }

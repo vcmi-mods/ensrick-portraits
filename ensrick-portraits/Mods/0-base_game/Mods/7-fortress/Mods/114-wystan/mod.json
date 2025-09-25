@@ -1,0 +1,28 @@
+{
+    "name" : "Wystan",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Wystan"
+    },
+    "chinese" : {
+        "name": "韦斯坦"
+    },
+    "german" : {
+        "name": "Wystan"
+    },
+    "hungarian" : {
+        "name": "Wystan"
+    },
+    "polish" : {
+        "name": "Wystan"
+    },
+    "russian" : {
+        "name": "Вистан"
+    },
+    "swedish" : {
+        "name": "Wystan"
+    },
+    "ukrainian" : {
+        "name": "Вістан"
+    }
+}

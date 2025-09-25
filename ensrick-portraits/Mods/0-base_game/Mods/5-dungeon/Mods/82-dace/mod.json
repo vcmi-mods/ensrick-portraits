@@ -1,0 +1,28 @@
+{
+    "name" : "Dace",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Dace"
+    },
+    "chinese" : {
+        "name": "戴斯"
+    },
+    "german" : {
+        "name": "Dace"
+    },
+    "hungarian" : {
+        "name": "Dace"
+    },
+    "polish" : {
+        "name": "Dace"
+    },
+    "russian" : {
+        "name": "Дейс"
+    },
+    "swedish" : {
+        "name": "Dace"
+    },
+    "ukrainian" : {
+        "name": "Дейс"
+    }
+}

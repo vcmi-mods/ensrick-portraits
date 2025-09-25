@@ -1,0 +1,28 @@
+{
+    "name" : "Uland",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Uland"
+    },
+    "chinese" : {
+        "name": "乌兰德"
+    },
+    "german" : {
+        "name": "Uland"
+    },
+    "hungarian" : {
+        "name": "Uland"
+    },
+    "polish" : {
+        "name": "Uland"
+    },
+    "russian" : {
+        "name": "Уланд"
+    },
+    "swedish" : {
+        "name": "Uland"
+    },
+    "ukrainian" : {
+        "name": "Уланд"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Merist",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Merist"
+    },
+    "chinese" : {
+        "name": "梅里斯特"
+    },
+    "german" : {
+        "name": "Merist"
+    },
+    "hungarian" : {
+        "name": "Merist"
+    },
+    "polish" : {
+        "name": "Merist"
+    },
+    "russian" : {
+        "name": "Мерист"
+    },
+    "swedish" : {
+        "name": "Merist"
+    },
+    "ukrainian" : {
+        "name": "Меріст"
+    }
+}

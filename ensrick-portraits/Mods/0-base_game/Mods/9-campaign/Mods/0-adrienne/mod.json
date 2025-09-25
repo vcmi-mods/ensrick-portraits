@@ -1,0 +1,28 @@
+{
+    "name" : "Adrienne",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Adrienne"
+    },
+    "chinese" : {
+        "name": "阿德里恩"
+    },
+    "german" : {
+        "name": "Adrienne"
+    },
+    "hungarian" : {
+        "name": "Adrienne"
+    },
+    "polish" : {
+        "name": "Adrienne"
+    },
+    "russian" : {
+        "name": "Адриенн"
+    },
+    "swedish" : {
+        "name": "Adrienne"
+    },
+    "ukrainian" : {
+        "name": "Адрієнн"
+    }
+}

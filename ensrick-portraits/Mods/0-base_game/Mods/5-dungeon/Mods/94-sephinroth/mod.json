@@ -1,0 +1,28 @@
+{
+    "name" : "Sephinroth",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Sephinroth"
+    },
+    "chinese" : {
+        "name": "塞菲诺罗斯"
+    },
+    "german" : {
+        "name": "Sephinroth"
+    },
+    "hungarian" : {
+        "name": "Sephinroth"
+    },
+    "polish" : {
+        "name": "Sephinroth"
+    },
+    "russian" : {
+        "name": "Сефинрот"
+    },
+    "swedish" : {
+        "name": "Sephinroth"
+    },
+    "ukrainian" : {
+        "name": "Сефінрот"
+    }
+}

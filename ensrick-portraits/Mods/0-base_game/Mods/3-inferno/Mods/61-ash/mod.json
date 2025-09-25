@@ -1,0 +1,28 @@
+{
+    "name" : "Ash",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Ash"
+    },
+    "chinese" : {
+        "name": "阿什"
+    },
+    "german" : {
+        "name": "Ash"
+    },
+    "hungarian" : {
+        "name": "Ash"
+    },
+    "polish" : {
+        "name": "Ash"
+    },
+    "russian" : {
+        "name": "Эш"
+    },
+    "swedish" : {
+        "name": "Ash"
+    },
+    "ukrainian" : {
+        "name": "Еш"
+    }
+}

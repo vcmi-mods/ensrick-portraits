@@ -1,0 +1,28 @@
+{
+    "name" : "Shiva",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Shiva"
+    },
+    "chinese" : {
+        "name": "湿瓦"
+    },
+    "german" : {
+        "name": "Shiva"
+    },
+    "hungarian" : {
+        "name": "Shiva"
+    },
+    "polish" : {
+        "name": "Shiva"
+    },
+    "russian" : {
+        "name": "Шива"
+    },
+    "swedish" : {
+        "name": "Shiva"
+    },
+    "ukrainian" : {
+        "name": "Шива"
+    }
+}

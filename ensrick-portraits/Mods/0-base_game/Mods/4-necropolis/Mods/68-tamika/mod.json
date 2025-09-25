@@ -1,0 +1,28 @@
+{
+    "name" : "Tamika",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Tamika"
+    },
+    "chinese" : {
+        "name": "塔米卡"
+    },
+    "german" : {
+        "name": "Tamika"
+    },
+    "hungarian" : {
+        "name": "Tamika"
+    },
+    "polish" : {
+        "name": "Tamika"
+    },
+    "russian" : {
+        "name": "Тамика"
+    },
+    "swedish" : {
+        "name": "Tamika"
+    },
+    "ukrainian" : {
+        "name": "Таміка"
+    }
+}

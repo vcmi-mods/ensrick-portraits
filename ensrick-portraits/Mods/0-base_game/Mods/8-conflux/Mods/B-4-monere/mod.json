@@ -1,0 +1,28 @@
+{
+    "name" : "Monere",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Monere"
+    },
+    "chinese" : {
+        "name": "莫内雷"
+    },
+    "german" : {
+        "name": "Monere"
+    },
+    "hungarian" : {
+        "name": "Monere"
+    },
+    "polish" : {
+        "name": "Monere"
+    },
+    "russian" : {
+        "name": "Монере"
+    },
+    "swedish" : {
+        "name": "Monere"
+    },
+    "ukrainian" : {
+        "name": "Монере"
+    }
+}

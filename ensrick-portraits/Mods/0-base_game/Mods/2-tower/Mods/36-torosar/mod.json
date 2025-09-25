@@ -1,0 +1,28 @@
+{
+    "name" : "Torosar",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Torosar"
+    },
+    "chinese" : {
+        "name": "托洛萨尔"
+    },
+    "german" : {
+        "name": "Torosar"
+    },
+    "hungarian" : {
+        "name": "Torosar"
+    },
+    "polish" : {
+        "name": "Torosar"
+    },
+    "russian" : {
+        "name": "Торосар"
+    },
+    "swedish" : {
+        "name": "Torosar"
+    },
+    "ukrainian" : {
+        "name": "Торосар"
+    }
+}

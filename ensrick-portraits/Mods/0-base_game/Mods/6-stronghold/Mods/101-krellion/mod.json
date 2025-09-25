@@ -1,0 +1,28 @@
+{
+    "name" : "Krellion",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Krellion"
+    },
+    "chinese" : {
+        "name": "克雷利恩"
+    },
+    "german" : {
+        "name": "Krellion"
+    },
+    "hungarian" : {
+        "name": "Krellion"
+    },
+    "polish" : {
+        "name": "Krellion"
+    },
+    "russian" : {
+        "name": "Креллион"
+    },
+    "swedish" : {
+        "name": "Krellion"
+    },
+    "ukrainian" : {
+        "name": "Крелліон"
+    }
+}

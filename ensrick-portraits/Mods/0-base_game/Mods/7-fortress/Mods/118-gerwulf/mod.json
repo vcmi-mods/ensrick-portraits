@@ -1,0 +1,28 @@
+{
+    "name" : "Gerwulf",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Gerwulf"
+    },
+    "chinese" : {
+        "name": "格尔伍尔夫"
+    },
+    "german" : {
+        "name": "Gerwulf"
+    },
+    "hungarian" : {
+        "name": "Gerwulf"
+    },
+    "polish" : {
+        "name": "Gerwulf"
+    },
+    "russian" : {
+        "name": "Гервульф"
+    },
+    "swedish" : {
+        "name": "Gerwulf"
+    },
+    "ukrainian" : {
+        "name": "Гервульф"
+    }
+}

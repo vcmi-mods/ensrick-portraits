@@ -1,0 +1,28 @@
+{
+    "name" : "Voy",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Voy"
+    },
+    "chinese" : {
+        "name": "沃伊"
+    },
+    "german" : {
+        "name": "Voy"
+    },
+    "hungarian" : {
+        "name": "Voy"
+    },
+    "polish" : {
+        "name": "Voy"
+    },
+    "russian" : {
+        "name": "Вой"
+    },
+    "swedish" : {
+        "name": "Voy"
+    },
+    "ukrainian" : {
+        "name": "Вой"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Adela",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Adela"
+    },
+    "chinese" : {
+        "name": "阿德拉"
+    },
+    "german" : {
+        "name": "Adela"
+    },
+    "hungarian" : {
+        "name": "Adela"
+    },
+    "polish" : {
+        "name": "Adela"
+    },
+    "russian" : {
+        "name": "Адела"
+    },
+    "swedish" : {
+        "name": "Adela"
+    },
+    "ukrainian" : {
+        "name": "Адела"
+    }
+}

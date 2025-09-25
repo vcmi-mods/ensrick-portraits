@@ -1,0 +1,28 @@
+{
+    "name" : "Arlach",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Arlach"
+    },
+    "chinese" : {
+        "name": "阿拉奇"
+    },
+    "german" : {
+        "name": "Arlach"
+    },
+    "hungarian" : {
+        "name": "Arlach"
+    },
+    "polish" : {
+        "name": "Arlach"
+    },
+    "russian" : {
+        "name": "Арлах"
+    },
+    "swedish" : {
+        "name": "Arlach"
+    },
+    "ukrainian" : {
+        "name": "Арлах"
+    }
+}

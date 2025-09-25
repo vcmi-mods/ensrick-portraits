@@ -1,0 +1,28 @@
+{
+    "name" : "Boragus",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Boragus"
+    },
+    "chinese" : {
+        "name": "博拉古斯"
+    },
+    "german" : {
+        "name": "Boragus"
+    },
+    "hungarian" : {
+        "name": "Boragus"
+    },
+    "polish" : {
+        "name": "Boragus"
+    },
+    "russian" : {
+        "name": "Борагус"
+    },
+    "swedish" : {
+        "name": "Boragus"
+    },
+    "ukrainian" : {
+        "name": "Борагус"
+    }
+}

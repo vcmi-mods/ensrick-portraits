@@ -1,0 +1,28 @@
+{
+    "name" : "Catherine",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Catherine"
+    },
+    "chinese" : {
+        "name": "凯瑟琳"
+    },
+    "german" : {
+        "name": "Catherine"
+    },
+    "hungarian" : {
+        "name": "Catherine"
+    },
+    "polish" : {
+        "name": "Catherine"
+    },
+    "russian" : {
+        "name": "Кэтрин"
+    },
+    "swedish" : {
+        "name": "Catherine"
+    },
+    "ukrainian" : {
+        "name": "Кетрін"
+    }
+}

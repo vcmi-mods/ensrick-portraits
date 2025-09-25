@@ -1,0 +1,28 @@
+{
+    "name" : "Gundula",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Gundula"
+    },
+    "chinese" : {
+        "name": "冈杜拉"
+    },
+    "german" : {
+        "name": "Gundula"
+    },
+    "hungarian" : {
+        "name": "Gundula"
+    },
+    "polish" : {
+        "name": "Gundula"
+    },
+    "russian" : {
+        "name": "Гундулa"
+    },
+    "swedish" : {
+        "name": "Gundula"
+    },
+    "ukrainian" : {
+        "name": "Гундулa"
+    }
+}

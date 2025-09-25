@@ -1,0 +1,28 @@
+{
+    "name" : "Saurug",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Saurug"
+    },
+    "chinese" : {
+        "name": "索鲁格"
+    },
+    "german" : {
+        "name": "Saurug"
+    },
+    "hungarian" : {
+        "name": "Saurug"
+    },
+    "polish" : {
+        "name": "Saurug"
+    },
+    "russian" : {
+        "name": "Сауруг"
+    },
+    "swedish" : {
+        "name": "Saurug"
+    },
+    "ukrainian" : {
+        "name": "Сауруг"
+    }
+}

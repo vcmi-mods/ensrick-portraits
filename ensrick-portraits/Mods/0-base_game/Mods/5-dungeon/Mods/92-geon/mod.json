@@ -1,0 +1,28 @@
+{
+    "name" : "Geon",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Geon"
+    },
+    "chinese" : {
+        "name": "基昂"
+    },
+    "german" : {
+        "name": "Geon"
+    },
+    "hungarian" : {
+        "name": "Geon"
+    },
+    "polish" : {
+        "name": "Geon"
+    },
+    "russian" : {
+        "name": "Джион"
+    },
+    "swedish" : {
+        "name": "Geon"
+    },
+    "ukrainian" : {
+        "name": "Джіон"
+    }
+}

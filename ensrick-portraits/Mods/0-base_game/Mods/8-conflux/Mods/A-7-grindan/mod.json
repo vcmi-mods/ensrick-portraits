@@ -1,0 +1,28 @@
+{
+    "name" : "Grindan",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Grindan"
+    },
+    "chinese" : {
+        "name": "格林丹"
+    },
+    "german" : {
+        "name": "Grindan"
+    },
+    "hungarian" : {
+        "name": "Grindan"
+    },
+    "polish" : {
+        "name": "Grindan"
+    },
+    "russian" : {
+        "name": "Гриндан"
+    },
+    "swedish" : {
+        "name": "Grindan"
+    },
+    "ukrainian" : {
+        "name": "Гріндан"
+    }
+}

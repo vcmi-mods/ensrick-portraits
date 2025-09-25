@@ -1,0 +1,28 @@
+{
+    "name" : "Inteus",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Inteus"
+    },
+    "chinese" : {
+        "name": "因特乌斯"
+    },
+    "german" : {
+        "name": "Inteus"
+    },
+    "hungarian" : {
+        "name": "Inteus"
+    },
+    "polish" : {
+        "name": "Inteus"
+    },
+    "russian" : {
+        "name": "Интеус"
+    },
+    "swedish" : {
+        "name": "Inteus"
+    },
+    "ukrainian" : {
+        "name": "Інтеус"
+    }
+}

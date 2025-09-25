@@ -1,0 +1,28 @@
+{
+    "name" : "Astral",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Astral"
+    },
+    "chinese" : {
+        "name": "阿斯特拉尔"
+    },
+    "german" : {
+        "name": "Astral"
+    },
+    "hungarian" : {
+        "name": "Astral"
+    },
+    "polish" : {
+        "name": "Astral"
+    },
+    "russian" : {
+        "name": "Астрал"
+    },
+    "swedish" : {
+        "name": "Astral"
+    },
+    "ukrainian" : {
+        "name": "Астрал"
+    }
+}

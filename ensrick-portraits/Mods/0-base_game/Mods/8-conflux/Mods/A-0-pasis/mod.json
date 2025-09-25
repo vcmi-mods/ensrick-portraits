@@ -1,0 +1,28 @@
+{
+    "name" : "Pasis",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Pasis"
+    },
+    "chinese" : {
+        "name": "帕西斯"
+    },
+    "german" : {
+        "name": "Pasis"
+    },
+    "hungarian" : {
+        "name": "Pasis"
+    },
+    "polish" : {
+        "name": "Pasis"
+    },
+    "russian" : {
+        "name": "Пасис"
+    },
+    "swedish" : {
+        "name": "Pasis"
+    },
+    "ukrainian" : {
+        "name": "Пасіс"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Tazar",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Tazar"
+    },
+    "chinese" : {
+        "name": "塔扎尔"
+    },
+    "german" : {
+        "name": "Tazar"
+    },
+    "hungarian" : {
+        "name": "Tazar"
+    },
+    "polish" : {
+        "name": "Tazar"
+    },
+    "russian" : {
+        "name": "Тазар"
+    },
+    "swedish" : {
+        "name": "Tazar"
+    },
+    "ukrainian" : {
+        "name": "Тазар"
+    }
+}

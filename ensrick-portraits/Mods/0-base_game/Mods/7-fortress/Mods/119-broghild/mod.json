@@ -1,0 +1,28 @@
+{
+    "name" : "Broghild",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Broghild"
+    },
+    "chinese" : {
+        "name": "布罗希尔德"
+    },
+    "german" : {
+        "name": "Broghild"
+    },
+    "hungarian" : {
+        "name": "Broghild"
+    },
+    "polish" : {
+        "name": "Broghild"
+    },
+    "russian" : {
+        "name": "Брогхильд"
+    },
+    "swedish" : {
+        "name": "Broghild"
+    },
+    "ukrainian" : {
+        "name": "Брогхільд"
+    }
+}

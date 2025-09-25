@@ -1,0 +1,28 @@
+{
+    "name" : "Josephine",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Josephine"
+    },
+    "chinese" : {
+        "name": "约瑟芬"
+    },
+    "german" : {
+        "name": "Josephine"
+    },
+    "hungarian" : {
+        "name": "Josephine"
+    },
+    "polish" : {
+        "name": "Josephine"
+    },
+    "russian" : {
+        "name": "Жозефина"
+    },
+    "swedish" : {
+        "name": "Josephine"
+    },
+    "ukrainian" : {
+        "name": "Жозефіна"
+    }
+}

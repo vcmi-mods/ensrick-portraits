@@ -1,0 +1,28 @@
+{
+    "name" : "Rissa",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Rissa"
+    },
+    "chinese" : {
+        "name": "瑞萨"
+    },
+    "german" : {
+        "name": "Rissa"
+    },
+    "hungarian" : {
+        "name": "Rissa"
+    },
+    "polish" : {
+        "name": "Rissa"
+    },
+    "russian" : {
+        "name": "Рисса"
+    },
+    "swedish" : {
+        "name": "Rissa"
+    },
+    "ukrainian" : {
+        "name": "Рісса"
+    }
+}

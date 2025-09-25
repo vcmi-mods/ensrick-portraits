@@ -1,0 +1,28 @@
+{
+    "name" : "Cyra",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Cyra"
+    },
+    "chinese" : {
+        "name": "赛拉"
+    },
+    "german" : {
+        "name": "Cyra"
+    },
+    "hungarian" : {
+        "name": "Cyra"
+    },
+    "polish" : {
+        "name": "Cyra"
+    },
+    "russian" : {
+        "name": "Сайра"
+    },
+    "swedish" : {
+        "name": "Cyra"
+    },
+    "ukrainian" : {
+        "name": "Сайра"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Malcom",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Malcom"
+    },
+    "chinese" : {
+        "name": "马尔科姆"
+    },
+    "german" : {
+        "name": "Malcom"
+    },
+    "hungarian" : {
+        "name": "Malcom"
+    },
+    "polish" : {
+        "name": "Malcom"
+    },
+    "russian" : {
+        "name": "Малком"
+    },
+    "swedish" : {
+        "name": "Malcom"
+    },
+    "ukrainian" : {
+        "name": "Малком"
+    }
+}

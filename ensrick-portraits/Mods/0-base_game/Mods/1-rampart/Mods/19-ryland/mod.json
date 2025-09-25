@@ -1,0 +1,28 @@
+{
+    "name" : "Ryland",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Ryland"
+    },
+    "chinese" : {
+        "name": "赖兰德"
+    },
+    "german" : {
+        "name": "Ryland"
+    },
+    "hungarian" : {
+        "name": "Ryland"
+    },
+    "polish" : {
+        "name": "Ryland"
+    },
+    "russian" : {
+        "name": "Райланд"
+    },
+    "swedish" : {
+        "name": "Ryland"
+    },
+    "ukrainian" : {
+        "name": "Райланд"
+    }
+}

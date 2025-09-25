@@ -1,0 +1,28 @@
+{
+    "name" : "Edric",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Edric"
+    },
+    "chinese" : {
+        "name": "埃德里克"
+    },
+    "german" : {
+        "name": "Edric"
+    },
+    "hungarian" : {
+        "name": "Edric"
+    },
+    "polish" : {
+        "name": "Edric"
+    },
+    "russian" : {
+        "name": "Эдрик"
+    },
+    "swedish" : {
+        "name": "Edric"
+    },
+    "ukrainian" : {
+        "name": "Едрик"
+    }
+}

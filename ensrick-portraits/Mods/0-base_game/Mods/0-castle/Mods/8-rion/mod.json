@@ -1,0 +1,28 @@
+{
+    "name" : "Rion",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Rion"
+    },
+    "chinese" : {
+        "name": "里昂"
+    },
+    "german" : {
+        "name": "Rion"
+    },
+    "hungarian" : {
+        "name": "Rion"
+    },
+    "polish" : {
+        "name": "Rion"
+    },
+    "russian" : {
+        "name": "Рион"
+    },
+    "swedish" : {
+        "name": "Rion"
+    },
+    "ukrainian" : {
+        "name": "Ріон"
+    }
+}

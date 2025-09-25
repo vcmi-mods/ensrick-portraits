@@ -1,0 +1,28 @@
+{
+    "name" : "Xyron",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Xyron"
+    },
+    "chinese" : {
+        "name": "赛朗"
+    },
+    "german" : {
+        "name": "Xyron"
+    },
+    "hungarian" : {
+        "name": "Xyron"
+    },
+    "polish" : {
+        "name": "Xyron"
+    },
+    "russian" : {
+        "name": "Кси́рон"
+    },
+    "swedish" : {
+        "name": "Xyron"
+    },
+    "ukrainian" : {
+        "name": "Ксірон"
+    }
+}

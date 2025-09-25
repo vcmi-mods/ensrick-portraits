@@ -1,0 +1,28 @@
+{
+    "name" : "Kendal",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Kendal"
+    },
+    "chinese" : {
+        "name": "肯达尔"
+    },
+    "german" : {
+        "name": "Kendal"
+    },
+    "hungarian" : {
+        "name": "Kendal"
+    },
+    "polish" : {
+        "name": "Kendal"
+    },
+    "russian" : {
+        "name": "Кендал"
+    },
+    "swedish" : {
+        "name": "Kendal"
+    },
+    "ukrainian" : {
+        "name": "Кендал"
+    }
+}

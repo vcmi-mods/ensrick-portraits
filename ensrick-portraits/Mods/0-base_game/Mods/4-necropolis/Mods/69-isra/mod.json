@@ -1,0 +1,28 @@
+{
+    "name" : "Isra",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Isra"
+    },
+    "chinese" : {
+        "name": "伊斯拉"
+    },
+    "german" : {
+        "name": "Isra"
+    },
+    "hungarian" : {
+        "name": "Isra"
+    },
+    "polish" : {
+        "name": "Isra"
+    },
+    "russian" : {
+        "name": "Исра"
+    },
+    "swedish" : {
+        "name": "Isra"
+    },
+    "ukrainian" : {
+        "name": "Ісра"
+    }
+}

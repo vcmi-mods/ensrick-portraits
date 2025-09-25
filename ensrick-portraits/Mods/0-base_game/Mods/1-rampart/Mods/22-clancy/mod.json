@@ -1,0 +1,28 @@
+{
+    "name" : "Clancy",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Clancy"
+    },
+    "chinese" : {
+        "name": "克兰西"
+    },
+    "german" : {
+        "name": "Clancy"
+    },
+    "hungarian" : {
+        "name": "Clancy"
+    },
+    "polish" : {
+        "name": "Clancy"
+    },
+    "russian" : {
+        "name": "Клэнси"
+    },
+    "swedish" : {
+        "name": "Clancy"
+    },
+    "ukrainian" : {
+        "name": "Клэнсі"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Gunnar",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Gunnar"
+    },
+    "chinese" : {
+        "name": "冈纳尔"
+    },
+    "german" : {
+        "name": "Gunnar"
+    },
+    "hungarian" : {
+        "name": "Gunnar"
+    },
+    "polish" : {
+        "name": "Gunnar"
+    },
+    "russian" : {
+        "name": "Гуннар"
+    },
+    "swedish" : {
+        "name": "Gunnar"
+    },
+    "ukrainian" : {
+        "name": "Гуннар"
+    }
+}

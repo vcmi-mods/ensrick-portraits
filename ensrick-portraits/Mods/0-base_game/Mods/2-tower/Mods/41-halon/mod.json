@@ -1,0 +1,28 @@
+{
+    "name" : "Halon",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Halon"
+    },
+    "chinese" : {
+        "name": "哈隆"
+    },
+    "german" : {
+        "name": "Halon"
+    },
+    "hungarian" : {
+        "name": "Halon"
+    },
+    "polish" : {
+        "name": "Halon"
+    },
+    "russian" : {
+        "name": "Халон"
+    },
+    "swedish" : {
+        "name": "Halon"
+    },
+    "ukrainian" : {
+        "name": "Халон"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Calid",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Calid"
+    },
+    "chinese" : {
+        "name": "卡利德"
+    },
+    "german" : {
+        "name": "Calid"
+    },
+    "hungarian" : {
+        "name": "Calid"
+    },
+    "polish" : {
+        "name": "Calid"
+    },
+    "russian" : {
+        "name": "Калид"
+    },
+    "swedish" : {
+        "name": "Calid"
+    },
+    "ukrainian" : {
+        "name": "Калід"
+    }
+}

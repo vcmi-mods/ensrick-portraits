@@ -1,0 +1,28 @@
+{
+    "name" : "Kyrre",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Kyrre"
+    },
+    "chinese" : {
+        "name": "基雷"
+    },
+    "german" : {
+        "name": "Kyrre"
+    },
+    "hungarian" : {
+        "name": "Kyrre"
+    },
+    "polish" : {
+        "name": "Kyrre"
+    },
+    "russian" : {
+        "name": "Кирре"
+    },
+    "swedish" : {
+        "name": "Kyrre"
+    },
+    "ukrainian" : {
+        "name": "Кірре"
+    }
+}

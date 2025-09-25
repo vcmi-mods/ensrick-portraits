@@ -1,0 +1,28 @@
+{
+    "name" : "Kilgor",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Kilgor"
+    },
+    "chinese" : {
+        "name": "基尔戈尔"
+    },
+    "german" : {
+        "name": "Kilgor"
+    },
+    "hungarian" : {
+        "name": "Kilgor"
+    },
+    "polish" : {
+        "name": "Kilgor"
+    },
+    "russian" : {
+        "name": "Килгор"
+    },
+    "swedish" : {
+        "name": "Kilgor"
+    },
+    "ukrainian" : {
+        "name": "Кілгор"
+    }
+}

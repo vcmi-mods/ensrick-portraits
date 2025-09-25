@@ -1,0 +1,28 @@
+{
+    "name" : "Xsi",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Xsi"
+    },
+    "chinese" : {
+        "name": "克西"
+    },
+    "german" : {
+        "name": "Xsi"
+    },
+    "hungarian" : {
+        "name": "Xsi"
+    },
+    "polish" : {
+        "name": "Xsi"
+    },
+    "russian" : {
+        "name": "Кси"
+    },
+    "swedish" : {
+        "name": "Xsi"
+    },
+    "ukrainian" : {
+        "name": "Ксі"
+    }
+}

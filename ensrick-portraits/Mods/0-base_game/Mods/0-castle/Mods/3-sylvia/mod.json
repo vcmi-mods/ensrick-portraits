@@ -1,0 +1,28 @@
+{
+    "name" : "Sylvia",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Sylvia"
+    },
+    "chinese" : {
+        "name": "西尔维娅"
+    },
+    "german" : {
+        "name": "Sylvia"
+    },
+    "hungarian" : {
+        "name": "Sylvia"
+    },
+    "polish" : {
+        "name": "Sylvia"
+    },
+    "russian" : {
+        "name": "Сильвия"
+    },
+    "swedish" : {
+        "name": "Sylvia"
+    },
+    "ukrainian" : {
+        "name": "Сільвія"
+    }
+}

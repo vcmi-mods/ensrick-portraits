@@ -1,0 +1,28 @@
+{
+    "name" : "Mirlanda",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Mirlanda"
+    },
+    "chinese" : {
+        "name": "米兰达"
+    },
+    "german" : {
+        "name": "Mirlanda"
+    },
+    "hungarian" : {
+        "name": "Mirlanda"
+    },
+    "polish" : {
+        "name": "Mirlanda"
+    },
+    "russian" : {
+        "name": "Мирланда"
+    },
+    "swedish" : {
+        "name": "Mirlanda"
+    },
+    "ukrainian" : {
+        "name": "Мірланда"
+    }
+}

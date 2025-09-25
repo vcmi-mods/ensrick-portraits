@@ -1,0 +1,38 @@
+{
+    "name" : "Castle",
+    "description" : "Castle hero portrait options.",
+    "modType" : "Graphical",
+    "keepDisabled" : false,
+    "czech" : {
+        "name": "Portréty Heroes III",
+        "description": "Volitelné portréty pro původní hrdiny."
+    },
+    "chinese" : {
+        "name": "英雄无敌III 头像",
+        "description": "为原始英雄提供的可选头像。"
+    },
+    "german" : {
+        "name": "Heroes-III-Porträts",
+        "description": "Optionale Porträts für die ursprünglichen Helden."
+    },
+    "hungarian" : {
+        "name": "Heroes III portrék",
+        "description": "Választható portrék az eredeti hősökhöz."
+    },
+    "polish" : {
+        "name": "Portrety Heroes III",
+        "description": "Opcjonalne portrety dla oryginalnych bohaterów."
+    },
+    "russian" : {
+        "name": "Портреты Heroes III",
+        "description": "Дополнительные портреты для оригинальных героев."
+    },
+    "swedish" : {
+        "name": "Heroes III-porträtt",
+        "description": "Valfria porträtt för de ursprungliga hjältarna."
+    },
+    "ukrainian" : {
+        "name": "Портрети Heroes III",
+        "description": "Додаткові портрети для оригінальних героїв."
+    }
+}

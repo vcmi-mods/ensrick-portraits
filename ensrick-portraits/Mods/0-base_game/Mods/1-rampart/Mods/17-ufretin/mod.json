@@ -1,0 +1,28 @@
+{
+    "name" : "Ufretin",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Ufretin"
+    },
+    "chinese" : {
+        "name": "乌弗雷廷"
+    },
+    "german" : {
+        "name": "Ufretin"
+    },
+    "hungarian" : {
+        "name": "Ufretin"
+    },
+    "polish" : {
+        "name": "Ufretin"
+    },
+    "russian" : {
+        "name": "Уфретин"
+    },
+    "swedish" : {
+        "name": "Ufretin"
+    },
+    "ukrainian" : {
+        "name": "Уфретин"
+    }
+}

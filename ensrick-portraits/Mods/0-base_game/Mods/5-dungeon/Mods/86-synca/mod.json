@@ -1,0 +1,28 @@
+{
+    "name" : "Synca",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Synca"
+    },
+    "chinese" : {
+        "name": "辛卡"
+    },
+    "german" : {
+        "name": "Synca"
+    },
+    "hungarian" : {
+        "name": "Synca"
+    },
+    "polish" : {
+        "name": "Synca"
+    },
+    "russian" : {
+        "name": "Синка"
+    },
+    "swedish" : {
+        "name": "Synca"
+    },
+    "ukrainian" : {
+        "name": "Синка"
+    }
+}

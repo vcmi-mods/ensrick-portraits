@@ -1,0 +1,28 @@
+{
+    "name" : "Andra",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Andra"
+    },
+    "chinese" : {
+        "name": "安德拉"
+    },
+    "german" : {
+        "name": "Andra"
+    },
+    "hungarian" : {
+        "name": "Andra"
+    },
+    "polish" : {
+        "name": "Andra"
+    },
+    "russian" : {
+        "name": "Андра"
+    },
+    "swedish" : {
+        "name": "Andra"
+    },
+    "ukrainian" : {
+        "name": "Андра"
+    }
+}

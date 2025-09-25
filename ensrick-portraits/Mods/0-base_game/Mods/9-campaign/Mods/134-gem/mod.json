@@ -1,0 +1,28 @@
+{
+    "name" : "Gem",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Gem"
+    },
+    "chinese" : {
+        "name": "杰姆"
+    },
+    "german" : {
+        "name": "Gem"
+    },
+    "hungarian" : {
+        "name": "Gem"
+    },
+    "polish" : {
+        "name": "Gem"
+    },
+    "russian" : {
+        "name": "Джем"
+    },
+    "swedish" : {
+        "name": "Gem"
+    },
+    "ukrainian" : {
+        "name": "Джем"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Marius",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Marius"
+    },
+    "chinese" : {
+        "name": "马里乌斯"
+    },
+    "german" : {
+        "name": "Marius"
+    },
+    "hungarian" : {
+        "name": "Marius"
+    },
+    "polish" : {
+        "name": "Marius"
+    },
+    "russian" : {
+        "name": "Мариус"
+    },
+    "swedish" : {
+        "name": "Marius"
+    },
+    "ukrainian" : {
+        "name": "Маріус"
+    }
+}

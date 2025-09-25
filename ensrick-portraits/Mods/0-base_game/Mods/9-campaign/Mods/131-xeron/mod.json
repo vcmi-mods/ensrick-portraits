@@ -1,0 +1,28 @@
+{
+    "name" : "Xeron",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Xeron"
+    },
+    "chinese" : {
+        "name": "泽朗"
+    },
+    "german" : {
+        "name": "Xeron"
+    },
+    "hungarian" : {
+        "name": "Xeron"
+    },
+    "polish" : {
+        "name": "Xeron"
+    },
+    "russian" : {
+        "name": "Ксерон"
+    },
+    "swedish" : {
+        "name": "Xeron"
+    },
+    "ukrainian" : {
+        "name": "Ксерон"
+    }
+}

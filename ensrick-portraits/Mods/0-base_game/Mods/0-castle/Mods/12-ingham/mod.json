@@ -1,0 +1,28 @@
+{
+    "name" : "Ingham",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Ingham"
+    },
+    "chinese" : {
+        "name": "英厄姆"
+    },
+    "german" : {
+        "name": "Ingham"
+    },
+    "hungarian" : {
+        "name": "Ingham"
+    },
+    "polish" : {
+        "name": "Ingham"
+    },
+    "russian" : {
+        "name": "Ингэм"
+    },
+    "swedish" : {
+        "name": "Ingham"
+    },
+    "ukrainian" : {
+        "name": "Інгем"
+    }
+}

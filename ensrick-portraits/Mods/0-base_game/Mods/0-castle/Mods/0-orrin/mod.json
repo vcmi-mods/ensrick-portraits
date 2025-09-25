@@ -1,0 +1,28 @@
+{
+    "name" : "Orrin",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Orrin"
+    },
+    "chinese" : {
+        "name": "奥林"
+    },
+    "german" : {
+        "name": "Orrin"
+    },
+    "hungarian" : {
+        "name": "Orrin"
+    },
+    "polish" : {
+        "name": "Orrin"
+    },
+    "russian" : {
+        "name": "Оррин"
+    },
+    "swedish" : {
+        "name": "Orrin"
+    },
+    "ukrainian" : {
+        "name": "Оррін"
+    }
+}

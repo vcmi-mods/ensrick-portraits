@@ -1,0 +1,28 @@
+{
+    "name" : "Brissa",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Brissa"
+    },
+    "chinese" : {
+        "name": "布丽萨"
+    },
+    "german" : {
+        "name": "Brissa"
+    },
+    "hungarian" : {
+        "name": "Brissa"
+    },
+    "polish" : {
+        "name": "Brissa"
+    },
+    "russian" : {
+        "name": "Брисса"
+    },
+    "swedish" : {
+        "name": "Brissa"
+    },
+    "ukrainian" : {
+        "name": "Брісса"
+    }
+}

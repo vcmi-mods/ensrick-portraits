@@ -1,0 +1,28 @@
+{
+    "name" : "Verdish",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Verdish"
+    },
+    "chinese" : {
+        "name": "维迪什"
+    },
+    "german" : {
+        "name": "Verdish"
+    },
+    "hungarian" : {
+        "name": "Verdish"
+    },
+    "polish" : {
+        "name": "Verdish"
+    },
+    "russian" : {
+        "name": "Вердиш"
+    },
+    "swedish" : {
+        "name": "Verdish"
+    },
+    "ukrainian" : {
+        "name": "Вердіш"
+    }
+}

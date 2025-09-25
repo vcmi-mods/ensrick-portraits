@@ -1,0 +1,37 @@
+{
+    "name" : "Fortress",
+    "description" : "Fortress hero portrait options.",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Portréty hrdinů Fortressu",
+        "description": "Volitelné portréty pro hrdiny Fortressu."
+    },
+    "chinese" : {
+        "name": "堡垒城头像",
+        "description": "为堡垒城英雄提供的可选头像。"
+    },
+    "german" : {
+        "name": "Fortress-Porträts",
+        "description": "Optionale Porträts für die Fortress-Helden."
+    },
+    "hungarian" : {
+        "name": "Fortress portrék",
+        "description": "Választható portrék a Fortress hőseihez."
+    },
+    "polish" : {
+        "name": "Portrety Fortressu",
+        "description": "Opcjonalne portrety dla bohaterów Fortressu."
+    },
+    "russian" : {
+        "name": "Портреты Фортресса",
+        "description": "Дополнительные портреты для героев Фортресса."
+    },
+    "swedish" : {
+        "name": "Fortress-porträtt",
+        "description": "Valfria porträtt för Fortress-hjältarna."
+    },
+    "ukrainian" : {
+        "name": "Портрети Фортресу",
+        "description": "Додаткові портрети для героїв Фортресу."
+    }
+}

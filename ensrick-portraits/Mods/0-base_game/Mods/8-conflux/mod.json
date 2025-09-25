@@ -1,0 +1,37 @@
+{
+    "name" : "Conflux",
+    "description" : "Conflux hero portrait options.",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Portréty hrdinů Confluxu",
+        "description": "Volitelné portréty pro hrdiny Confluxu."
+    },
+    "chinese" : {
+        "name": "元素城头像",
+        "description": "为元素城英雄提供的可选头像。"
+    },
+    "german" : {
+        "name": "Conflux-Porträts",
+        "description": "Optionale Porträts für die Conflux-Helden."
+    },
+    "hungarian" : {
+        "name": "Conflux portrék",
+        "description": "Választható portrék a Conflux hőseihez."
+    },
+    "polish" : {
+        "name": "Portrety Confluxu",
+        "description": "Opcjonalne portrety dla bohaterów Confluxu."
+    },
+    "russian" : {
+        "name": "Портреты Conflux",
+        "description": "Дополнительные портреты для героев Conflux."
+    },
+    "swedish" : {
+        "name": "Conflux-porträtt",
+        "description": "Valfria porträtt för Conflux-hjältarna."
+    },
+    "ukrainian" : {
+        "name": "Портрети Conflux",
+        "description": "Додаткові портрети для героїв Conflux."
+    }
+}

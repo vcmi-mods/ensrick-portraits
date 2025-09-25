@@ -1,0 +1,28 @@
+{
+    "name" : "Ordwald",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Ordwald"
+    },
+    "chinese" : {
+        "name": "奥德瓦尔德"
+    },
+    "german" : {
+        "name": "Ordwald"
+    },
+    "hungarian" : {
+        "name": "Ordwald"
+    },
+    "polish" : {
+        "name": "Ordwald"
+    },
+    "russian" : {
+        "name": "Ордвальд"
+    },
+    "swedish" : {
+        "name": "Ordwald"
+    },
+    "ukrainian" : {
+        "name": "Ордвальд"
+    }
+}

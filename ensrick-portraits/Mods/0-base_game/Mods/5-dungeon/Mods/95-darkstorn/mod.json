@@ -1,0 +1,28 @@
+{
+    "name" : "Darkstorn",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Darkstorn"
+    },
+    "chinese" : {
+        "name": "暗暴风"
+    },
+    "german" : {
+        "name": "Darkstorn"
+    },
+    "hungarian" : {
+        "name": "Darkstorn"
+    },
+    "polish" : {
+        "name": "Darkstorn"
+    },
+    "russian" : {
+        "name": "Дарксторн"
+    },
+    "swedish" : {
+        "name": "Darkstorn"
+    },
+    "ukrainian" : {
+        "name": "Дарксторн"
+    }
+}

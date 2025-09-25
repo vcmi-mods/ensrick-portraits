@@ -1,0 +1,28 @@
+{
+    "name" : "Ajit",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Ajit"
+    },
+    "chinese" : {
+        "name": "阿吉特"
+    },
+    "german" : {
+        "name": "Ajit"
+    },
+    "hungarian" : {
+        "name": "Ajit"
+    },
+    "polish" : {
+        "name": "Ajit"
+    },
+    "russian" : {
+        "name": "Аджит"
+    },
+    "swedish" : {
+        "name": "Ajit"
+    },
+    "ukrainian" : {
+        "name": "Аджит"
+    }
+}

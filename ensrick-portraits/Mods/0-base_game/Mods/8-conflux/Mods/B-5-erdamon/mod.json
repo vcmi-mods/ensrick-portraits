@@ -1,0 +1,28 @@
+{
+    "name" : "Erdamon",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Erdamon"
+    },
+    "chinese" : {
+        "name": "埃尔达蒙"
+    },
+    "german" : {
+        "name": "Erdamon"
+    },
+    "hungarian" : {
+        "name": "Erdamon"
+    },
+    "polish" : {
+        "name": "Erdamon"
+    },
+    "russian" : {
+        "name": "Эрдамон"
+    },
+    "swedish" : {
+        "name": "Erdamon"
+    },
+    "ukrainian" : {
+        "name": "Ердамон"
+    }
+}

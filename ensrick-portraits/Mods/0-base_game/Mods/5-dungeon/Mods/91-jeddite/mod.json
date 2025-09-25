@@ -1,0 +1,28 @@
+{
+    "name" : "Jeddite",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Jeddite"
+    },
+    "chinese" : {
+        "name": "杰迪特"
+    },
+    "german" : {
+        "name": "Jeddite"
+    },
+    "hungarian" : {
+        "name": "Jeddite"
+    },
+    "polish" : {
+        "name": "Jeddite"
+    },
+    "russian" : {
+        "name": "Джеддит"
+    },
+    "swedish" : {
+        "name": "Jeddite"
+    },
+    "ukrainian" : {
+        "name": "Джеддіт"
+    }
+}

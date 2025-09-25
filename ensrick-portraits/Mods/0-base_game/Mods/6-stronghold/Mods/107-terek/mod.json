@@ -1,0 +1,28 @@
+{
+    "name" : "Terek",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Terek"
+    },
+    "chinese" : {
+        "name": "特雷克"
+    },
+    "german" : {
+        "name": "Terek"
+    },
+    "hungarian" : {
+        "name": "Terek"
+    },
+    "polish" : {
+        "name": "Terek"
+    },
+    "russian" : {
+        "name": "Терек"
+    },
+    "swedish" : {
+        "name": "Terek"
+    },
+    "ukrainian" : {
+        "name": "Терек"
+    }
+}

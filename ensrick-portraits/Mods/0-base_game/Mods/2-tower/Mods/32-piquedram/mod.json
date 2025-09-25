@@ -1,0 +1,28 @@
+{
+    "name" : "Piquedram",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Piquedram"
+    },
+    "chinese" : {
+        "name": "皮克德拉姆"
+    },
+    "german" : {
+        "name": "Piquedram"
+    },
+    "hungarian" : {
+        "name": "Piquedram"
+    },
+    "polish" : {
+        "name": "Piquedram"
+    },
+    "russian" : {
+        "name": "Пикедрам"
+    },
+    "swedish" : {
+        "name": "Piquedram"
+    },
+    "ukrainian" : {
+        "name": "Пікедрам"
+    }
+}

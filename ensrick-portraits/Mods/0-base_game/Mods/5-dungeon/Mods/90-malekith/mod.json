@@ -1,0 +1,28 @@
+{
+    "name" : "Malekith",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Malekith"
+    },
+    "chinese" : {
+        "name": "马莱基斯"
+    },
+    "german" : {
+        "name": "Malekith"
+    },
+    "hungarian" : {
+        "name": "Malekith"
+    },
+    "polish" : {
+        "name": "Malekith"
+    },
+    "russian" : {
+        "name": "Малекит"
+    },
+    "swedish" : {
+        "name": "Malekith"
+    },
+    "ukrainian" : {
+        "name": "Малекіт"
+    }
+}

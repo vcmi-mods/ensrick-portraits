@@ -1,0 +1,28 @@
+{
+    "name" : "Nimbus",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Nimbus"
+    },
+    "chinese" : {
+        "name": "宁布斯"
+    },
+    "german" : {
+        "name": "Nimbus"
+    },
+    "hungarian" : {
+        "name": "Nimbus"
+    },
+    "polish" : {
+        "name": "Nimbus"
+    },
+    "russian" : {
+        "name": "Нимбус"
+    },
+    "swedish" : {
+        "name": "Nimbus"
+    },
+    "ukrainian" : {
+        "name": "Німбус"
+    }
+}

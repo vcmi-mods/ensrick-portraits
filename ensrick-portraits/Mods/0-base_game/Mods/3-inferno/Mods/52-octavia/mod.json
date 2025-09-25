@@ -1,0 +1,28 @@
+{
+    "name" : "Octavia",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Octavia"
+    },
+    "chinese" : {
+        "name": "奥克塔维娅"
+    },
+    "german" : {
+        "name": "Octavia"
+    },
+    "hungarian" : {
+        "name": "Octavia"
+    },
+    "polish" : {
+        "name": "Octavia"
+    },
+    "russian" : {
+        "name": "Октавия"
+    },
+    "swedish" : {
+        "name": "Octavia"
+    },
+    "ukrainian" : {
+        "name": "Октавія"
+    }
+}

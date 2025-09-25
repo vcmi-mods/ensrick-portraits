@@ -1,0 +1,28 @@
+{
+    "name" : "Tyris",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Tyris"
+    },
+    "chinese" : {
+        "name": "泰瑞斯"
+    },
+    "german" : {
+        "name": "Tyris"
+    },
+    "hungarian" : {
+        "name": "Tyris"
+    },
+    "polish" : {
+        "name": "Tyris"
+    },
+    "russian" : {
+        "name": "Тайрис"
+    },
+    "swedish" : {
+        "name": "Tyris"
+    },
+    "ukrainian" : {
+        "name": "Тайріс"
+    }
+}

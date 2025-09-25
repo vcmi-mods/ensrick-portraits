@@ -1,0 +1,28 @@
+{
+    "name" : "Loynis",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Loynis"
+    },
+    "chinese" : {
+        "name": "洛伊尼斯"
+    },
+    "german" : {
+        "name": "Loynis"
+    },
+    "hungarian" : {
+        "name": "Loynis"
+    },
+    "polish" : {
+        "name": "Loynis"
+    },
+    "russian" : {
+        "name": "Лойнис"
+    },
+    "swedish" : {
+        "name": "Loynis"
+    },
+    "ukrainian" : {
+        "name": "Лойніс"
+    }
+}

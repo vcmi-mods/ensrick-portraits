@@ -1,0 +1,28 @@
+{
+    "name" : "Ignissa",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Ignissa"
+    },
+    "chinese" : {
+        "name": "伊格妮莎"
+    },
+    "german" : {
+        "name": "Ignissa"
+    },
+    "hungarian" : {
+        "name": "Ignissa"
+    },
+    "polish" : {
+        "name": "Ignissa"
+    },
+    "russian" : {
+        "name": "Игнисса"
+    },
+    "swedish" : {
+        "name": "Ignissa"
+    },
+    "ukrainian" : {
+        "name": "Ігнісса"
+    }
+}

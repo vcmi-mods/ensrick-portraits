@@ -1,0 +1,28 @@
+{
+    "name" : "Gurnisson",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Gurnisson"
+    },
+    "chinese" : {
+        "name": "古尔尼森"
+    },
+    "german" : {
+        "name": "Gurnisson"
+    },
+    "hungarian" : {
+        "name": "Gurnisson"
+    },
+    "polish" : {
+        "name": "Gurnisson"
+    },
+    "russian" : {
+        "name": "Гурниссон"
+    },
+    "swedish" : {
+        "name": "Gurnisson"
+    },
+    "ukrainian" : {
+        "name": "Гурніссон"
+    }
+}

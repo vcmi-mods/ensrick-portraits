@@ -1,0 +1,28 @@
+{
+    "name" : "Moander",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Moander"
+    },
+    "chinese" : {
+        "name": "莫安德"
+    },
+    "german" : {
+        "name": "Moander"
+    },
+    "hungarian" : {
+        "name": "Moander"
+    },
+    "polish" : {
+        "name": "Moander"
+    },
+    "russian" : {
+        "name": "Моандер"
+    },
+    "swedish" : {
+        "name": "Moander"
+    },
+    "ukrainian" : {
+        "name": "Моандер"
+    }
+}

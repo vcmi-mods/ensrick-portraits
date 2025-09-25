@@ -1,0 +1,28 @@
+{
+    "name" : "Gelu",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Gelu"
+    },
+    "chinese" : {
+        "name": "格鲁"
+    },
+    "german" : {
+        "name": "Gelu"
+    },
+    "hungarian" : {
+        "name": "Gelu"
+    },
+    "polish" : {
+        "name": "Gelu"
+    },
+    "russian" : {
+        "name": "Гелу"
+    },
+    "swedish" : {
+        "name": "Gelu"
+    },
+    "ukrainian" : {
+        "name": "Гелу"
+    }
+}

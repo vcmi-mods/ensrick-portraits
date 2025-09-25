@@ -1,0 +1,28 @@
+{
+    "name" : "Alamar",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Alamar"
+    },
+    "chinese" : {
+        "name": "阿拉玛尔"
+    },
+    "german" : {
+        "name": "Alamar"
+    },
+    "hungarian" : {
+        "name": "Alamar"
+    },
+    "polish" : {
+        "name": "Alamar"
+    },
+    "russian" : {
+        "name": "Аламар"
+    },
+    "swedish" : {
+        "name": "Alamar"
+    },
+    "ukrainian" : {
+        "name": "Аламар"
+    }
+}

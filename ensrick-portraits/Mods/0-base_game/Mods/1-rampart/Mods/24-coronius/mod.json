@@ -1,0 +1,28 @@
+{
+    "name" : "Coronius",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Coronius"
+    },
+    "chinese" : {
+        "name": "科罗纽斯"
+    },
+    "german" : {
+        "name": "Coronius"
+    },
+    "hungarian" : {
+        "name": "Coronius"
+    },
+    "polish" : {
+        "name": "Coronius"
+    },
+    "russian" : {
+        "name": "Коро́ниус"
+    },
+    "swedish" : {
+        "name": "Coronius"
+    },
+    "ukrainian" : {
+        "name": "Коро́ніус"
+    }
+}

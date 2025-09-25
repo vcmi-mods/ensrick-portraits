@@ -1,0 +1,28 @@
+{
+    "name" : "Solmyr",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Solmyr"
+    },
+    "chinese" : {
+        "name": "索尔米尔"
+    },
+    "german" : {
+        "name": "Solmyr"
+    },
+    "hungarian" : {
+        "name": "Solmyr"
+    },
+    "polish" : {
+        "name": "Solmyr"
+    },
+    "russian" : {
+        "name": "Солмир"
+    },
+    "swedish" : {
+        "name": "Solmyr"
+    },
+    "ukrainian" : {
+        "name": "Солмир"
+    }
+}

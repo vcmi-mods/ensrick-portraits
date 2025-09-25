@@ -1,0 +1,37 @@
+{
+    "name" : "Stronghold",
+    "description" : "Stronghold hero portrait options.",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Portréty hrdinů Strongholdu",
+        "description": "Volitelné portréty pro hrdiny Strongholdu."
+    },
+    "chinese" : {
+        "name": "要塞城头像",
+        "description": "为要塞城英雄提供的可选头像。"
+    },
+    "german" : {
+        "name": "Stronghold-Porträts",
+        "description": "Optionale Porträts für die Stronghold-Helden."
+    },
+    "hungarian" : {
+        "name": "Stronghold portrék",
+        "description": "Választható portrék a Stronghold hőseihez."
+    },
+    "polish" : {
+        "name": "Portrety Strongholdu",
+        "description": "Opcjonalne portrety dla bohaterów Strongholdu."
+    },
+    "russian" : {
+        "name": "Портреты Крепости",
+        "description": "Дополнительные портреты для героев Крепости."
+    },
+    "swedish" : {
+        "name": "Stronghold-porträtt",
+        "description": "Valfria porträtt för Stronghold-hjältarna."
+    },
+    "ukrainian" : {
+        "name": "Портрети Фортеці",
+        "description": "Додаткові портрети для героїв Фортеці."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Mutare (Dragon)",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Mutare (Drak)"
+    },
+    "chinese" : {
+        "name": "穆塔雷（龙）"
+    },
+    "german" : {
+        "name": "Mutare (Drache)"
+    },
+    "hungarian" : {
+        "name": "Mutare (Sárkány)"
+    },
+    "polish" : {
+        "name": "Mutare (Smok)"
+    },
+    "russian" : {
+        "name": "Мутаре (Дракон)"
+    },
+    "swedish" : {
+        "name": "Mutare (Drake)"
+    },
+    "ukrainian" : {
+        "name": "Мутаре (Дракон)"
+    }
+}

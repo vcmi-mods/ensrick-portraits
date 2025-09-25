@@ -1,0 +1,28 @@
+{
+    "name" : "Kalt",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Kalt"
+    },
+    "chinese" : {
+        "name": "卡尔特"
+    },
+    "german" : {
+        "name": "Kalt"
+    },
+    "hungarian" : {
+        "name": "Kalt"
+    },
+    "polish" : {
+        "name": "Kalt"
+    },
+    "russian" : {
+        "name": "Калт"
+    },
+    "swedish" : {
+        "name": "Kalt"
+    },
+    "ukrainian" : {
+        "name": "Калт"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Gird",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Gird"
+    },
+    "chinese" : {
+        "name": "吉尔德"
+    },
+    "german" : {
+        "name": "Gird"
+    },
+    "hungarian" : {
+        "name": "Gird"
+    },
+    "polish" : {
+        "name": "Gird"
+    },
+    "russian" : {
+        "name": "Гирд"
+    },
+    "swedish" : {
+        "name": "Gird"
+    },
+    "ukrainian" : {
+        "name": "Гірд"
+    }
+}

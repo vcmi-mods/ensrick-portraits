@@ -1,0 +1,28 @@
+{
+    "name" : "Jabarkas",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Jabarkas"
+    },
+    "chinese" : {
+        "name": "贾巴卡斯"
+    },
+    "german" : {
+        "name": "Jabarkas"
+    },
+    "hungarian" : {
+        "name": "Jabarkas"
+    },
+    "polish" : {
+        "name": "Jabarkas"
+    },
+    "russian" : {
+        "name": "Джабаркас"
+    },
+    "swedish" : {
+        "name": "Jabarkas"
+    },
+    "ukrainian" : {
+        "name": "Джабаркас"
+    }
+}

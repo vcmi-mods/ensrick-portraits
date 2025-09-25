@@ -1,0 +1,28 @@
+{
+    "name" : "Styg",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Styg"
+    },
+    "chinese" : {
+        "name": "斯蒂格"
+    },
+    "german" : {
+        "name": "Styg"
+    },
+    "hungarian" : {
+        "name": "Styg"
+    },
+    "polish" : {
+        "name": "Styg"
+    },
+    "russian" : {
+        "name": "Стыг"
+    },
+    "swedish" : {
+        "name": "Styg"
+    },
+    "ukrainian" : {
+        "name": "Стиг"
+    }
+}

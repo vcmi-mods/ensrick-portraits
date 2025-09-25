@@ -1,0 +1,28 @@
+{
+    "name" : "Fiona",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Fiona"
+    },
+    "chinese" : {
+        "name": "菲奥娜"
+    },
+    "german" : {
+        "name": "Fiona"
+    },
+    "hungarian" : {
+        "name": "Fiona"
+    },
+    "polish" : {
+        "name": "Fiona"
+    },
+    "russian" : {
+        "name": "Фиона"
+    },
+    "swedish" : {
+        "name": "Fiona"
+    },
+    "ukrainian" : {
+        "name": "Фіона"
+    }
+}

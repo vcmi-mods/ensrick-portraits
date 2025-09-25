@@ -1,0 +1,28 @@
+{
+    "name" : "Aine",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Aine"
+    },
+    "chinese" : {
+        "name": "艾娜"
+    },
+    "german" : {
+        "name": "Aine"
+    },
+    "hungarian" : {
+        "name": "Aine"
+    },
+    "polish" : {
+        "name": "Aine"
+    },
+    "russian" : {
+        "name": "Айна"
+    },
+    "swedish" : {
+        "name": "Aine"
+    },
+    "ukrainian" : {
+        "name": "Айна"
+    }
+}

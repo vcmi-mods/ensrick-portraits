@@ -1,0 +1,28 @@
+{
+    "name" : "Clavius",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Clavius"
+    },
+    "chinese" : {
+        "name": "克拉维乌斯"
+    },
+    "german" : {
+        "name": "Clavius"
+    },
+    "hungarian" : {
+        "name": "Clavius"
+    },
+    "polish" : {
+        "name": "Clavius"
+    },
+    "russian" : {
+        "name": "Клавиус"
+    },
+    "swedish" : {
+        "name": "Clavius"
+    },
+    "ukrainian" : {
+        "name": "Клавіус"
+    }
+}

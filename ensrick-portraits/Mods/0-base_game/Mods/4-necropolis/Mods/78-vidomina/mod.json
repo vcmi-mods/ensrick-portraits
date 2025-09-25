@@ -1,0 +1,28 @@
+{
+    "name" : "Vidomina",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Vidomina"
+    },
+    "chinese" : {
+        "name": "维多米娜"
+    },
+    "german" : {
+        "name": "Vidomina"
+    },
+    "hungarian" : {
+        "name": "Vidomina"
+    },
+    "polish" : {
+        "name": "Vidomina"
+    },
+    "russian" : {
+        "name": "Видомина"
+    },
+    "swedish" : {
+        "name": "Vidomina"
+    },
+    "ukrainian" : {
+        "name": "Відоміна"
+    }
+}

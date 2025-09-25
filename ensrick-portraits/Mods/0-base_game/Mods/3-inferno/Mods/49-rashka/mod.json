@@ -1,0 +1,28 @@
+{
+    "name" : "Rashka",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Rashka"
+    },
+    "chinese" : {
+        "name": "拉什卡"
+    },
+    "german" : {
+        "name": "Rashka"
+    },
+    "hungarian" : {
+        "name": "Rashka"
+    },
+    "polish" : {
+        "name": "Rashka"
+    },
+    "russian" : {
+        "name": "Рашка"
+    },
+    "swedish" : {
+        "name": "Rashka"
+    },
+    "ukrainian" : {
+        "name": "Рашка"
+    }
+}

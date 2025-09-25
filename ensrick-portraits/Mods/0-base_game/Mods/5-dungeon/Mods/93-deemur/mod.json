@@ -1,0 +1,28 @@
+{
+    "name" : "Deemur",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Deemur"
+    },
+    "chinese" : {
+        "name": "迪穆尔"
+    },
+    "german" : {
+        "name": "Deemur"
+    },
+    "hungarian" : {
+        "name": "Deemur"
+    },
+    "polish" : {
+        "name": "Deemur"
+    },
+    "russian" : {
+        "name": "Димур"
+    },
+    "swedish" : {
+        "name": "Deemur"
+    },
+    "ukrainian" : {
+        "name": "Дімур"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Valeska",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Valeska"
+    },
+    "chinese" : {
+        "name": "瓦莱斯卡"
+    },
+    "german" : {
+        "name": "Valeska"
+    },
+    "hungarian" : {
+        "name": "Valeska"
+    },
+    "polish" : {
+        "name": "Valeska"
+    },
+    "russian" : {
+        "name": "Валеска"
+    },
+    "swedish" : {
+        "name": "Valeska"
+    },
+    "ukrainian" : {
+        "name": "Валеска"
+    }
+}

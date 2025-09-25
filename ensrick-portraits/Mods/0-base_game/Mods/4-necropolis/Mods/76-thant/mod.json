@@ -1,0 +1,28 @@
+{
+    "name" : "Thant",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Thant"
+    },
+    "chinese" : {
+        "name": "桑特"
+    },
+    "german" : {
+        "name": "Thant"
+    },
+    "hungarian" : {
+        "name": "Thant"
+    },
+    "polish" : {
+        "name": "Thant"
+    },
+    "russian" : {
+        "name": "Тант"
+    },
+    "swedish" : {
+        "name": "Thant"
+    },
+    "ukrainian" : {
+        "name": "Тант"
+    }
+}

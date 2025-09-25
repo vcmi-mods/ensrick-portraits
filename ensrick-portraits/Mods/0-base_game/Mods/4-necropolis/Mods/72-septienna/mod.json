@@ -1,0 +1,28 @@
+{
+    "name" : "Septienna",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Septienna"
+    },
+    "chinese" : {
+        "name": "塞普蒂恩娜"
+    },
+    "german" : {
+        "name": "Septienna"
+    },
+    "hungarian" : {
+        "name": "Septienna"
+    },
+    "polish" : {
+        "name": "Septienna"
+    },
+    "russian" : {
+        "name": "Септиэнна"
+    },
+    "swedish" : {
+        "name": "Septienna"
+    },
+    "ukrainian" : {
+        "name": "Септіенна"
+    }
+}

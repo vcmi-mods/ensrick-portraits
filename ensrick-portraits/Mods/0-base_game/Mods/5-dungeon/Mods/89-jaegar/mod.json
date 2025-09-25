@@ -1,0 +1,28 @@
+{
+    "name" : "Jaegar",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Jaegar"
+    },
+    "chinese" : {
+        "name": "杰格尔"
+    },
+    "german" : {
+        "name": "Jaegar"
+    },
+    "hungarian" : {
+        "name": "Jaegar"
+    },
+    "polish" : {
+        "name": "Jaegar"
+    },
+    "russian" : {
+        "name": "Йегар"
+    },
+    "swedish" : {
+        "name": "Jaegar"
+    },
+    "ukrainian" : {
+        "name": "Йегар"
+    }
+}

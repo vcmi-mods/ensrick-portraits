@@ -1,0 +1,28 @@
+{
+    "name" : "Ignatius",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Ignatius"
+    },
+    "chinese" : {
+        "name": "伊格纳修斯"
+    },
+    "german" : {
+        "name": "Ignatius"
+    },
+    "hungarian" : {
+        "name": "Ignatius"
+    },
+    "polish" : {
+        "name": "Ignatius"
+    },
+    "russian" : {
+        "name": "Игнаций"
+    },
+    "swedish" : {
+        "name": "Ignatius"
+    },
+    "ukrainian" : {
+        "name": "Ігнатій"
+    }
+}

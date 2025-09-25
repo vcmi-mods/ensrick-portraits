@@ -1,0 +1,28 @@
+{
+    "name" : "Roland",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Roland"
+    },
+    "chinese" : {
+        "name": "罗兰德"
+    },
+    "german" : {
+        "name": "Roland"
+    },
+    "hungarian" : {
+        "name": "Roland"
+    },
+    "polish" : {
+        "name": "Roland"
+    },
+    "russian" : {
+        "name": "Роланд"
+    },
+    "swedish" : {
+        "name": "Roland"
+    },
+    "ukrainian" : {
+        "name": "Роланд"
+    }
+}

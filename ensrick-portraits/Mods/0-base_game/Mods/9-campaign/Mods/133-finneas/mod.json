@@ -1,0 +1,28 @@
+{
+    "name" : "Finneas",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Finneas"
+    },
+    "chinese" : {
+        "name": "菲尼亚斯"
+    },
+    "german" : {
+        "name": "Finneas"
+    },
+    "hungarian" : {
+        "name": "Finneas"
+    },
+    "polish" : {
+        "name": "Finneas"
+    },
+    "russian" : {
+        "name": "Финнеас"
+    },
+    "swedish" : {
+        "name": "Finneas"
+    },
+    "ukrainian" : {
+        "name": "Фіннеас"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Axsis",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Axsis"
+    },
+    "chinese" : {
+        "name": "阿克西斯"
+    },
+    "german" : {
+        "name": "Axsis"
+    },
+    "hungarian" : {
+        "name": "Axsis"
+    },
+    "polish" : {
+        "name": "Axsis"
+    },
+    "russian" : {
+        "name": "Аксис"
+    },
+    "swedish" : {
+        "name": "Axsis"
+    },
+    "ukrainian" : {
+        "name": "Аксіс"
+    }
+}

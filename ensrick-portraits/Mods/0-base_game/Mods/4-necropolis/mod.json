@@ -1,0 +1,37 @@
+{
+    "name" : "Necropolis",
+    "description" : "Necropolis hero portrait options.",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Portréty hrdinů Nekropole",
+        "description": "Volitelné portréty pro hrdiny Nekropole."
+    },
+    "chinese" : {
+        "name": "墓园头像",
+        "description": "为墓园英雄提供的可选头像。"
+    },
+    "german" : {
+        "name": "Nekropolis-Porträts",
+        "description": "Optionale Porträts für die Nekropolis-Helden."
+    },
+    "hungarian" : {
+        "name": "Nekropolisz portrék",
+        "description": "Választható portrék a Nekropolisz hőseihez."
+    },
+    "polish" : {
+        "name": "Portrety Nekropolii",
+        "description": "Opcjonalne portrety dla bohaterów Nekropolii."
+    },
+    "russian" : {
+        "name": "Портреты Некрополиса",
+        "description": "Дополнительные портреты для героев Некрополиса."
+    },
+    "swedish" : {
+        "name": "Nekropolis-porträtt",
+        "description": "Valfria porträtt för Nekropolis-hjältarna."
+    },
+    "ukrainian" : {
+        "name": "Портрети Некрополя",
+        "description": "Додаткові портрети для героїв Некрополя."
+    }
+}

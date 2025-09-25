@@ -1,0 +1,28 @@
+{
+    "name" : "Jenova",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Jenova"
+    },
+    "chinese" : {
+        "name": "杰诺瓦"
+    },
+    "german" : {
+        "name": "Jenova"
+    },
+    "hungarian" : {
+        "name": "Jenova"
+    },
+    "polish" : {
+        "name": "Jenova"
+    },
+    "russian" : {
+        "name": "Дженова"
+    },
+    "swedish" : {
+        "name": "Jenova"
+    },
+    "ukrainian" : {
+        "name": "Дженова"
+    }
+}

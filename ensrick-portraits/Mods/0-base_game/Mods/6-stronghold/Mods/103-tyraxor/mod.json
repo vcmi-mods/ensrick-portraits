@@ -1,0 +1,28 @@
+{
+    "name" : "Tyraxor",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Tyraxor"
+    },
+    "chinese" : {
+        "name": "泰拉克索尔"
+    },
+    "german" : {
+        "name": "Tyraxor"
+    },
+    "hungarian" : {
+        "name": "Tyraxor"
+    },
+    "polish" : {
+        "name": "Tyraxor"
+    },
+    "russian" : {
+        "name": "Тираксор"
+    },
+    "swedish" : {
+        "name": "Tyraxor"
+    },
+    "ukrainian" : {
+        "name": "Тіраксор"
+    }
+}

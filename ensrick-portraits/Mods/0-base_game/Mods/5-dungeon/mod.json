@@ -1,0 +1,37 @@
+{
+    "name" : "Dungeon",
+    "description" : "Dungeon hero portrait options.",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Portréty hrdinů Dungeonu",
+        "description": "Volitelné portréty pro hrdiny Dungeonu."
+    },
+    "chinese" : {
+        "name": "地牢城头像",
+        "description": "为地牢城英雄提供的可选头像。"
+    },
+    "german" : {
+        "name": "Dungeon-Porträts",
+        "description": "Optionale Porträts für die Dungeon-Helden."
+    },
+    "hungarian" : {
+        "name": "Dungeon portrék",
+        "description": "Választható portrék a Dungeon hőseihez."
+    },
+    "polish" : {
+        "name": "Portrety Dungeon",
+        "description": "Opcjonalne portrety dla bohaterów Dungeon."
+    },
+    "russian" : {
+        "name": "Портреты Данжа",
+        "description": "Дополнительные портреты для героев Данжа."
+    },
+    "swedish" : {
+        "name": "Dungeon-porträtt",
+        "description": "Valfria porträtt för Dungeon-hjältarna."
+    },
+    "ukrainian" : {
+        "name": "Портрети Данжа",
+        "description": "Додаткові портрети для героїв Данжа."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Sorsha",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Sorsha"
+    },
+    "chinese" : {
+        "name": "索尔莎"
+    },
+    "german" : {
+        "name": "Sorsha"
+    },
+    "hungarian" : {
+        "name": "Sorsha"
+    },
+    "polish" : {
+        "name": "Sorsha"
+    },
+    "russian" : {
+        "name": "Сорша"
+    },
+    "swedish" : {
+        "name": "Sorsha"
+    },
+    "ukrainian" : {
+        "name": "Сорша"
+    }
+}

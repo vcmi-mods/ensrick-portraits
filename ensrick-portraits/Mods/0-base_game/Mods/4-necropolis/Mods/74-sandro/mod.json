@@ -1,0 +1,28 @@
+{
+    "name" : "Sandro",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Sandro"
+    },
+    "chinese" : {
+        "name": "桑德罗"
+    },
+    "german" : {
+        "name": "Sandro"
+    },
+    "hungarian" : {
+        "name": "Sandro"
+    },
+    "polish" : {
+        "name": "Sandro"
+    },
+    "russian" : {
+        "name": "Сандро"
+    },
+    "swedish" : {
+        "name": "Sandro"
+    },
+    "ukrainian" : {
+        "name": "Сандро"
+    }
+}

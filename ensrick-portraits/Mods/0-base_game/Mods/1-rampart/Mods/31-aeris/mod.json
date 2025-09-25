@@ -1,0 +1,28 @@
+{
+    "name" : "Aeris",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Aeris"
+    },
+    "chinese" : {
+        "name": "艾瑞斯"
+    },
+    "german" : {
+        "name": "Aeris"
+    },
+    "hungarian" : {
+        "name": "Aeris"
+    },
+    "polish" : {
+        "name": "Aeris"
+    },
+    "russian" : {
+        "name": "Аэрис"
+    },
+    "swedish" : {
+        "name": "Aeris"
+    },
+    "ukrainian" : {
+        "name": "Аеріс"
+    }
+}

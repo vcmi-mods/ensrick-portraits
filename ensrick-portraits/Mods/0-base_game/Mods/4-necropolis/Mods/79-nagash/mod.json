@@ -1,0 +1,28 @@
+{
+    "name" : "Nagash",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Nagash"
+    },
+    "chinese" : {
+        "name": "纳加什"
+    },
+    "german" : {
+        "name": "Nagash"
+    },
+    "hungarian" : {
+        "name": "Nagash"
+    },
+    "polish" : {
+        "name": "Nagash"
+    },
+    "russian" : {
+        "name": "Нагаш"
+    },
+    "swedish" : {
+        "name": "Nagash"
+    },
+    "ukrainian" : {
+        "name": "Нагаш"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Ayden",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Ayden"
+    },
+    "chinese" : {
+        "name": "艾登"
+    },
+    "german" : {
+        "name": "Ayden"
+    },
+    "hungarian" : {
+        "name": "Ayden"
+    },
+    "polish" : {
+        "name": "Ayden"
+    },
+    "russian" : {
+        "name": "Айден"
+    },
+    "swedish" : {
+        "name": "Ayden"
+    },
+    "ukrainian" : {
+        "name": "Айден"
+    }
+}

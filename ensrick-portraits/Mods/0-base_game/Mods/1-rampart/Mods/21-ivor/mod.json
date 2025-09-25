@@ -1,0 +1,28 @@
+{
+    "name" : "Ivor",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Ivor"
+    },
+    "chinese" : {
+        "name": "艾沃尔"
+    },
+    "german" : {
+        "name": "Ivor"
+    },
+    "hungarian" : {
+        "name": "Ivor"
+    },
+    "polish" : {
+        "name": "Ivor"
+    },
+    "russian" : {
+        "name": "Айвор"
+    },
+    "swedish" : {
+        "name": "Ivor"
+    },
+    "ukrainian" : {
+        "name": "Айвор"
+    }
+}

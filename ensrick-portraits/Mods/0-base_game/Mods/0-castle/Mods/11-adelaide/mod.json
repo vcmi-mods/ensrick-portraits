@@ -1,0 +1,28 @@
+{
+    "name" : "Adelaide",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Adelaide"
+    },
+    "chinese" : {
+        "name": "阿德莱德"
+    },
+    "german" : {
+        "name": "Adelaide"
+    },
+    "hungarian" : {
+        "name": "Adelaide"
+    },
+    "polish" : {
+        "name": "Adelaide"
+    },
+    "russian" : {
+        "name": "Аделаида"
+    },
+    "swedish" : {
+        "name": "Adelaide"
+    },
+    "ukrainian" : {
+        "name": "Аделаїда"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Alagar",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Alagar"
+    },
+    "chinese" : {
+        "name": "阿拉加尔"
+    },
+    "german" : {
+        "name": "Alagar"
+    },
+    "hungarian" : {
+        "name": "Alagar"
+    },
+    "polish" : {
+        "name": "Alagar"
+    },
+    "russian" : {
+        "name": "Алагар"
+    },
+    "swedish" : {
+        "name": "Alagar"
+    },
+    "ukrainian" : {
+        "name": "Алагар"
+    }
+}

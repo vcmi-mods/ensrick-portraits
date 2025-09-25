@@ -1,0 +1,28 @@
+{
+    "name" : "Thunar",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Thunar"
+    },
+    "chinese" : {
+        "name": "图纳尔"
+    },
+    "german" : {
+        "name": "Thunar"
+    },
+    "hungarian" : {
+        "name": "Thunar"
+    },
+    "polish" : {
+        "name": "Thunar"
+    },
+    "russian" : {
+        "name": "Тунар"
+    },
+    "swedish" : {
+        "name": "Thunar"
+    },
+    "ukrainian" : {
+        "name": "Тунар"
+    }
+}

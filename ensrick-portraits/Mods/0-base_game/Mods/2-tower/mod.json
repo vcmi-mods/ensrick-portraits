@@ -1,0 +1,37 @@
+{
+    "name" : "Tower",
+    "description" : "Tower hero portrait options.",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Portréty hrdinů Toweru",
+        "description": "Volitelné portréty pro hrdiny Toweru."
+    },
+    "chinese" : {
+        "name": "塔城头像",
+        "description": "为塔城英雄提供的可选头像。"
+    },
+    "german" : {
+        "name": "Tower-Porträts",
+        "description": "Optionale Porträts für die Tower-Helden."
+    },
+    "hungarian" : {
+        "name": "Tower portrék",
+        "description": "Választható portrék a Tower hőseihez."
+    },
+    "polish" : {
+        "name": "Portrety Toweru",
+        "description": "Opcjonalne portrety dla bohaterów Toweru."
+    },
+    "russian" : {
+        "name": "Портреты Тауэра",
+        "description": "Дополнительные портреты для героев Тауэра."
+    },
+    "swedish" : {
+        "name": "Tower-porträtt",
+        "description": "Valfria porträtt för Tower-hjältarna."
+    },
+    "ukrainian" : {
+        "name": "Портрети Тауера",
+        "description": "Додаткові портрети для героїв Тауера."
+    }
+}

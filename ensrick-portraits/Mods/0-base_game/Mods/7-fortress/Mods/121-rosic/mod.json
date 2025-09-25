@@ -1,0 +1,28 @@
+{
+    "name" : "Rosic",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Rosic"
+    },
+    "chinese" : {
+        "name": "罗西克"
+    },
+    "german" : {
+        "name": "Rosic"
+    },
+    "hungarian" : {
+        "name": "Rosic"
+    },
+    "polish" : {
+        "name": "Rosic"
+    },
+    "russian" : {
+        "name": "Росик"
+    },
+    "swedish" : {
+        "name": "Rosic"
+    },
+    "ukrainian" : {
+        "name": "Росик"
+    }
+}

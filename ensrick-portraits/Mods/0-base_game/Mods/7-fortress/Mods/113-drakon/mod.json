@@ -1,0 +1,28 @@
+{
+    "name" : "Drakon",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Drakon"
+    },
+    "chinese" : {
+        "name": "德拉孔"
+    },
+    "german" : {
+        "name": "Drakon"
+    },
+    "hungarian" : {
+        "name": "Drakon"
+    },
+    "polish" : {
+        "name": "Drakon"
+    },
+    "russian" : {
+        "name": "Дракон"
+    },
+    "swedish" : {
+        "name": "Drakon"
+    },
+    "ukrainian" : {
+        "name": "Дракон"
+    }
+}

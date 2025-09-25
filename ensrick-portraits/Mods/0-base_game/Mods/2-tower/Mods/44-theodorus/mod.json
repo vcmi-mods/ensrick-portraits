@@ -1,0 +1,28 @@
+{
+    "name" : "Theodorus",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Theodorus"
+    },
+    "chinese" : {
+        "name": "西奥多鲁斯"
+    },
+    "german" : {
+        "name": "Theodorus"
+    },
+    "hungarian" : {
+        "name": "Theodorus"
+    },
+    "polish" : {
+        "name": "Theodorus"
+    },
+    "russian" : {
+        "name": "Теодорус"
+    },
+    "swedish" : {
+        "name": "Theodorus"
+    },
+    "ukrainian" : {
+        "name": "Теодорус"
+    }
+}

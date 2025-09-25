@@ -1,0 +1,28 @@
+{
+    "name" : "Elleshar",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Elleshar"
+    },
+    "chinese" : {
+        "name": "艾莱沙尔"
+    },
+    "german" : {
+        "name": "Elleshar"
+    },
+    "hungarian" : {
+        "name": "Elleshar"
+    },
+    "polish" : {
+        "name": "Elleshar"
+    },
+    "russian" : {
+        "name": "Эллешар"
+    },
+    "swedish" : {
+        "name": "Elleshar"
+    },
+    "ukrainian" : {
+        "name": "Еллешар"
+    }
+}

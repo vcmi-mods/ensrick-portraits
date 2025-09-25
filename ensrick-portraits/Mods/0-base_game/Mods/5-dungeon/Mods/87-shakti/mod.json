@@ -1,0 +1,28 @@
+{
+    "name" : "Shakti",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Shakti"
+    },
+    "chinese" : {
+        "name": "沙克蒂"
+    },
+    "german" : {
+        "name": "Shakti"
+    },
+    "hungarian" : {
+        "name": "Shakti"
+    },
+    "polish" : {
+        "name": "Shakti"
+    },
+    "russian" : {
+        "name": "Шакти"
+    },
+    "swedish" : {
+        "name": "Shakti"
+    },
+    "ukrainian" : {
+        "name": "Шакті"
+    }
+}

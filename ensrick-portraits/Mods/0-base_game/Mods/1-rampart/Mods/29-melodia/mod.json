@@ -1,0 +1,28 @@
+{
+    "name" : "Melodia",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Melodia"
+    },
+    "chinese" : {
+        "name": "梅洛迪娅"
+    },
+    "german" : {
+        "name": "Melodia"
+    },
+    "hungarian" : {
+        "name": "Melodia"
+    },
+    "polish" : {
+        "name": "Melodia"
+    },
+    "russian" : {
+        "name": "Мелодия"
+    },
+    "swedish" : {
+        "name": "Melodia"
+    },
+    "ukrainian" : {
+        "name": "Мелодія"
+    }
+}

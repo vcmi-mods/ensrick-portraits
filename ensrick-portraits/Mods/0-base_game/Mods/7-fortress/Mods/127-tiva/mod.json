@@ -1,0 +1,28 @@
+{
+    "name" : "Tiva",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Tiva"
+    },
+    "chinese" : {
+        "name": "蒂娃"
+    },
+    "german" : {
+        "name": "Tiva"
+    },
+    "hungarian" : {
+        "name": "Tiva"
+    },
+    "polish" : {
+        "name": "Tiva"
+    },
+    "russian" : {
+        "name": "Тива"
+    },
+    "swedish" : {
+        "name": "Tiva"
+    },
+    "ukrainian" : {
+        "name": "Тіва"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Charna",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Charna"
+    },
+    "chinese" : {
+        "name": "查尔娜"
+    },
+    "german" : {
+        "name": "Charna"
+    },
+    "hungarian" : {
+        "name": "Charna"
+    },
+    "polish" : {
+        "name": "Charna"
+    },
+    "russian" : {
+        "name": "Чарна"
+    },
+    "swedish" : {
+        "name": "Charna"
+    },
+    "ukrainian" : {
+        "name": "Чарна"
+    }
+}

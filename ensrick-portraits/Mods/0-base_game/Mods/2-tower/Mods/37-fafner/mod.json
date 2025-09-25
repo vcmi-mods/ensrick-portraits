@@ -1,0 +1,28 @@
+{
+    "name" : "Fafner",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Fafner"
+    },
+    "chinese" : {
+        "name": "法夫纳"
+    },
+    "german" : {
+        "name": "Fafner"
+    },
+    "hungarian" : {
+        "name": "Fafner"
+    },
+    "polish" : {
+        "name": "Fafner"
+    },
+    "russian" : {
+        "name": "Фафнер"
+    },
+    "swedish" : {
+        "name": "Fafner"
+    },
+    "ukrainian" : {
+        "name": "Фафнер"
+    }
+}

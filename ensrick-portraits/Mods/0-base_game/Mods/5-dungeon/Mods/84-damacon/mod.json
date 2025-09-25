@@ -1,0 +1,28 @@
+{
+    "name" : "Damacon",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Damacon"
+    },
+    "chinese" : {
+        "name": "达马孔"
+    },
+    "german" : {
+        "name": "Damacon"
+    },
+    "hungarian" : {
+        "name": "Damacon"
+    },
+    "polish" : {
+        "name": "Damacon"
+    },
+    "russian" : {
+        "name": "Дамакон"
+    },
+    "swedish" : {
+        "name": "Damacon"
+    },
+    "ukrainian" : {
+        "name": "Дамакон"
+    }
+}

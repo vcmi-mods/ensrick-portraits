@@ -1,0 +1,28 @@
+{
+    "name" : "Gretchin",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Gretchin"
+    },
+    "chinese" : {
+        "name": "格雷钦"
+    },
+    "german" : {
+        "name": "Gretchin"
+    },
+    "hungarian" : {
+        "name": "Gretchin"
+    },
+    "polish" : {
+        "name": "Gretchin"
+    },
+    "russian" : {
+        "name": "Гретчин"
+    },
+    "swedish" : {
+        "name": "Gretchin"
+    },
+    "ukrainian" : {
+        "name": "Гретчин"
+    }
+}

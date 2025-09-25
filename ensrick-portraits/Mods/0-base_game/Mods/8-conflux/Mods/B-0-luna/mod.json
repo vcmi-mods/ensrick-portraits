@@ -1,0 +1,28 @@
+{
+    "name" : "Luna",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Luna"
+    },
+    "chinese" : {
+        "name": "露娜"
+    },
+    "german" : {
+        "name": "Luna"
+    },
+    "hungarian" : {
+        "name": "Luna"
+    },
+    "polish" : {
+        "name": "Luna"
+    },
+    "russian" : {
+        "name": "Луна"
+    },
+    "swedish" : {
+        "name": "Luna"
+    },
+    "ukrainian" : {
+        "name": "Луна"
+    }
+}

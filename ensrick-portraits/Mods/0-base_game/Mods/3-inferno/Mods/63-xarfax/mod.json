@@ -1,0 +1,28 @@
+{
+    "name" : "Xarfax",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Xarfax"
+    },
+    "chinese" : {
+        "name": "哈法克斯"
+    },
+    "german" : {
+        "name": "Xarfax"
+    },
+    "hungarian" : {
+        "name": "Xarfax"
+    },
+    "polish" : {
+        "name": "Xarfax"
+    },
+    "russian" : {
+        "name": "Ксарфакс"
+    },
+    "swedish" : {
+        "name": "Xarfax"
+    },
+    "ukrainian" : {
+        "name": "Ксарфакс"
+    }
+}

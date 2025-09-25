@@ -1,0 +1,28 @@
+{
+    "name" : "Labetha",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Labetha"
+    },
+    "chinese" : {
+        "name": "拉贝莎"
+    },
+    "german" : {
+        "name": "Labetha"
+    },
+    "hungarian" : {
+        "name": "Labetha"
+    },
+    "polish" : {
+        "name": "Labetha"
+    },
+    "russian" : {
+        "name": "Лабета"
+    },
+    "swedish" : {
+        "name": "Labetha"
+    },
+    "ukrainian" : {
+        "name": "Лабета"
+    }
+}

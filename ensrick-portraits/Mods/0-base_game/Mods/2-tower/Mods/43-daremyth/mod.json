@@ -1,0 +1,28 @@
+{
+    "name" : "Daremyth",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Daremyth"
+    },
+    "chinese" : {
+        "name": "达瑞米斯"
+    },
+    "german" : {
+        "name": "Daremyth"
+    },
+    "hungarian" : {
+        "name": "Daremyth"
+    },
+    "polish" : {
+        "name": "Daremyth"
+    },
+    "russian" : {
+        "name": "Даремит"
+    },
+    "swedish" : {
+        "name": "Daremyth"
+    },
+    "ukrainian" : {
+        "name": "Дареміт"
+    }
+}

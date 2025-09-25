@@ -1,0 +1,28 @@
+{
+    "name" : "Mullich",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Mullich"
+    },
+    "chinese" : {
+        "name": "穆利奇"
+    },
+    "german" : {
+        "name": "Mullich"
+    },
+    "hungarian" : {
+        "name": "Mullich"
+    },
+    "polish" : {
+        "name": "Mullich"
+    },
+    "russian" : {
+        "name": "Муллич"
+    },
+    "swedish" : {
+        "name": "Mullich"
+    },
+    "ukrainian" : {
+        "name": "Мулліч"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name" : "Oris",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Oris"
+    },
+    "chinese" : {
+        "name": "奥里斯"
+    },
+    "german" : {
+        "name": "Oris"
+    },
+    "hungarian" : {
+        "name": "Oris"
+    },
+    "polish" : {
+        "name": "Oris"
+    },
+    "russian" : {
+        "name": "Орис"
+    },
+    "swedish" : {
+        "name": "Oris"
+    },
+    "ukrainian" : {
+        "name": "Оріс"
+    }
+}

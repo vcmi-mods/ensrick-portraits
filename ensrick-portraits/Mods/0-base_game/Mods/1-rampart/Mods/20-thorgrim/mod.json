@@ -1,0 +1,28 @@
+{
+    "name" : "Thorgrim",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Thorgrim"
+    },
+    "chinese" : {
+        "name": "索格里姆"
+    },
+    "german" : {
+        "name": "Thorgrim"
+    },
+    "hungarian" : {
+        "name": "Thorgrim"
+    },
+    "polish" : {
+        "name": "Thorgrim"
+    },
+    "russian" : {
+        "name": "Торгрім"
+    },
+    "swedish" : {
+        "name": "Thorgrim"
+    },
+    "ukrainian" : {
+        "name": "Торгрім"
+    }
+}

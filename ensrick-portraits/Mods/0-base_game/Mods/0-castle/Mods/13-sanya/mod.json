@@ -1,0 +1,28 @@
+{
+    "name" : "Sanya",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Sanya"
+    },
+    "chinese" : {
+        "name": "珊雅"
+    },
+    "german" : {
+        "name": "Sanya"
+    },
+    "hungarian" : {
+        "name": "Sanya"
+    },
+    "polish" : {
+        "name": "Sanya"
+    },
+    "russian" : {
+        "name": "Саня"
+    },
+    "swedish" : {
+        "name": "Sanya"
+    },
+    "ukrainian" : {
+        "name": "Саня"
+    }
+}

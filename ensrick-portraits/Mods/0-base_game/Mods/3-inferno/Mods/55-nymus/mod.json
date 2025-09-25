@@ -1,0 +1,28 @@
+{
+    "name" : "Nymus",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Nymus"
+    },
+    "chinese" : {
+        "name": "尼穆斯"
+    },
+    "german" : {
+        "name": "Nymus"
+    },
+    "hungarian" : {
+        "name": "Nymus"
+    },
+    "polish" : {
+        "name": "Nymus"
+    },
+    "russian" : {
+        "name": "Нимус"
+    },
+    "swedish" : {
+        "name": "Nymus"
+    },
+    "ukrainian" : {
+        "name": "Нимус"
+    }
+}

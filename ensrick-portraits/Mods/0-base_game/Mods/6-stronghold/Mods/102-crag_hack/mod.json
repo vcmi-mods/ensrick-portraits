@@ -1,0 +1,28 @@
+{
+    "name" : "Crag Hack",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Crag Hack"
+    },
+    "chinese" : {
+        "name": "克拉格·哈克"
+    },
+    "german" : {
+        "name": "Crag Hack"
+    },
+    "hungarian" : {
+        "name": "Crag Hack"
+    },
+    "polish" : {
+        "name": "Crag Hack"
+    },
+    "russian" : {
+        "name": "Крэг Хэк"
+    },
+    "swedish" : {
+        "name": "Crag Hack"
+    },
+    "ukrainian" : {
+        "name": "Крег Хак"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name" : "Rampart",
+    "description" : "Rampart hero portrait options.",
+    "modType" : "Graphical",
+    "keepDisabled" : false,
+    "czech" : {
+        "name": "Portréty lesní hrdinů",
+        "description": "Volitelné portréty pro hrdiny Rampartu."
+    },
+    "chinese" : {
+        "name": "防御城头像",
+        "description": "为防御城英雄提供的可选头像。"
+    },
+    "german" : {
+        "name": "Rampart-Porträts",
+        "description": "Optionale Porträts für die Rampart-Helden."
+    },
+    "hungarian" : {
+        "name": "Rampart portrék",
+        "description": "Választható portrék a Rampart hőseihez."
+    },
+    "polish" : {
+        "name": "Portrety Rampartu",
+        "description": "Opcjonalne portrety dla bohaterów Rampartu."
+    },
+    "russian" : {
+        "name": "Портреты Рампарта",
+        "description": "Дополнительные портреты для героев Рампарта."
+    },
+    "swedish" : {
+        "name": "Rampart-porträtt",
+        "description": "Valfria porträtt för Rampart-hjältarna."
+    },
+    "ukrainian" : {
+        "name": "Портрети Рампарта",
+        "description": "Додаткові портрети для героїв Рампарта."
+    }
+}

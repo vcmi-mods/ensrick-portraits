@@ -1,0 +1,37 @@
+{
+    "name" : "Campaign",
+    "description" : "Campaign hero portrait options.",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Portréty hrdinů kampaně",
+        "description": "Volitelné portréty pro hrdiny kampaně."
+    },
+    "chinese" : {
+        "name": "战役头像",
+        "description": "为战役英雄提供的可选头像。"
+    },
+    "german" : {
+        "name": "Kampagnen-Porträts",
+        "description": "Optionale Porträts für die Kampagnen-Helden."
+    },
+    "hungarian" : {
+        "name": "Kampány portrék",
+        "description": "Választható portrék a kampány hőseihez."
+    },
+    "polish" : {
+        "name": "Portrety bohaterów kampanii",
+        "description": "Opcjonalne portrety dla bohaterów kampanii."
+    },
+    "russian" : {
+        "name": "Портреты героев кампании",
+        "description": "Дополнительные портреты для героев кампании."
+    },
+    "swedish" : {
+        "name": "Kampanj-porträtt",
+        "description": "Valfria porträtt för kampanjhjältarna."
+    },
+    "ukrainian" : {
+        "name": "Портрети героїв кампанії",
+        "description": "Додаткові портрети для героїв кампанії."
+    }
+}

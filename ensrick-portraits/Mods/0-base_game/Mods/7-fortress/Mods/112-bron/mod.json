@@ -1,0 +1,28 @@
+{
+    "name" : "Bron",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Bron"
+    },
+    "chinese" : {
+        "name": "布隆"
+    },
+    "german" : {
+        "name": "Bron"
+    },
+    "hungarian" : {
+        "name": "Bron"
+    },
+    "polish" : {
+        "name": "Bron"
+    },
+    "russian" : {
+        "name": "Брон"
+    },
+    "swedish" : {
+        "name": "Bron"
+    },
+    "ukrainian" : {
+        "name": "Брон"
+    }
+}

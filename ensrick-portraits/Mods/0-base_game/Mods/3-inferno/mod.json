@@ -1,0 +1,37 @@
+{
+    "name" : "Inferno",
+    "description" : "Inferno hero portrait options.",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Portréty hrdinů Inferna",
+        "description": "Volitelné portréty pro hrdiny Inferna."
+    },
+    "chinese" : {
+        "name": "地狱城头像",
+        "description": "为地狱城英雄提供的可选头像。"
+    },
+    "german" : {
+        "name": "Inferno-Porträts",
+        "description": "Optionale Porträts für die Inferno-Helden."
+    },
+    "hungarian" : {
+        "name": "Inferno portrék",
+        "description": "Választható portrék az Inferno hőseihez."
+    },
+    "polish" : {
+        "name": "Portrety Inferno",
+        "description": "Opcjonalne portrety dla bohaterów Inferno."
+    },
+    "russian" : {
+        "name": "Портреты Инферно",
+        "description": "Дополнительные портреты для героев Инферно."
+    },
+    "swedish" : {
+        "name": "Inferno-porträtt",
+        "description": "Valfria porträtt för Inferno-hjältarna."
+    },
+    "ukrainian" : {
+        "name": "Портрети Інферно",
+        "description": "Додаткові портрети для героїв Інферно."
+    }
+}

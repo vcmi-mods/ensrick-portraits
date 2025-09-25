@@ -1,0 +1,28 @@
+{
+    "name" : "Neela",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Neela"
+    },
+    "chinese" : {
+        "name": "尼拉"
+    },
+    "german" : {
+        "name": "Neela"
+    },
+    "hungarian" : {
+        "name": "Neela"
+    },
+    "polish" : {
+        "name": "Neela"
+    },
+    "russian" : {
+        "name": "Нила"
+    },
+    "swedish" : {
+        "name": "Neela"
+    },
+    "ukrainian" : {
+        "name": "Ніла"
+    }
+}
