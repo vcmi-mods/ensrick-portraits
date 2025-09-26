@@ -8,8 +8,8 @@
         "description": "Volitelné portréty pro hrdiny Rampartu."
     },
     "chinese" : {
-        "name": "防御城头像",
-        "description": "为防御城英雄提供的可选头像。"
+        "name": "壁垒",
+        "description": "壁垒英雄的替换头像。"
     },
     "german" : {
         "name": "Rampart-Porträts",
