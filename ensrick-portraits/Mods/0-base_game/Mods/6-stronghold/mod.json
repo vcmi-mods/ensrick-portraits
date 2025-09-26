@@ -7,8 +7,8 @@
         "description": "Volitelné portréty pro hrdiny Strongholdu."
     },
     "chinese" : {
-        "name": "要塞城头像",
-        "description": "为要塞城英雄提供的可选头像。"
+        "name": "据点城头像",
+        "description": "为要据点英雄提供的可选头像。"
     },
     "german" : {
         "name": "Stronghold-Porträts",
