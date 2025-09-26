@@ -7,8 +7,8 @@
         "description": "Volitelné portréty pro hrdiny Fortressu."
     },
     "chinese" : {
-        "name": "堡垒城头像",
-        "description": "为堡垒城英雄提供的可选头像。"
+        "name": "要塞头像",
+        "description": "为要塞英雄提供的可选头像。"
     },
     "german" : {
         "name": "Fortress-Porträts",
