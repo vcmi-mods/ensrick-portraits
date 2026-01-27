@@ -16,6 +16,7 @@ jobs:
         with:
           persist-credentials: true
           fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref || github.ref }}
 
       - name: Install ImageMagick
         run: |
