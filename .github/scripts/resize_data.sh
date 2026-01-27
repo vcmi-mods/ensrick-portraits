@@ -29,7 +29,6 @@ move_if_pixels_differ() {
   fi
   return 0
 }
-}
 
 while IFS= read -r -d '' data4_dir; do
   found=true
