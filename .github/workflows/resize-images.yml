@@ -1,0 +1,37 @@
+name: Resize PNGs from Data4x
+
+on:
+  workflow_dispatch:
+  pull_request:
+
+permissions:
+  contents: write
+
+jobs:
+  resize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      - name: Make script executable
+        run: chmod +x .github/scripts/resize_data.sh
+
+      - name: Run resize script
+        run: .github/scripts/resize_data.sh
+
+      - name: Commit changes to the correct branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: Update x2 and x3 images
+          add: '*.png'
+          push: --force
