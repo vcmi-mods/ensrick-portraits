@@ -1,5 +1,7 @@
 {
     "name" : "Campaign",
+    "version" : "2.0",
+    "author" : "Ensrick",
     "description" : "Campaign hero portrait options.",
     "modType" : "Graphical",
     "keepDisabled" : true,

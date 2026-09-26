@@ -1,5 +1,6 @@
 {
     "name" : "Heroes III Portraits",
+    "version" : "2.0",
     "description" : "Optional portraits for the original heroes.",
     "author" : "Ensrick",
     "modType" : "Graphical",

@@ -1,5 +1,7 @@
 {
     "name" : "Piquedram",
+    "version" : "2.0",
+    "author" : "Ensrick",
     "modType" : "Graphical",
     "czech" : {
         "name": "Piquedram"

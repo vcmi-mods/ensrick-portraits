@@ -1,5 +1,7 @@
 {
     "name" : "Ufretin",
+    "version" : "2.0",
+    "author" : "Ensrick",
     "modType" : "Graphical",
     "czech" : {
         "name": "Ufretin"

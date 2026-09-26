@@ -1,5 +1,7 @@
 {
     "name" : "Fortress",
+    "version" : "2.0",
+    "author" : "Ensrick",
     "description" : "Fortress hero portrait options.",
     "modType" : "Graphical",
     "keepDisabled" : true,

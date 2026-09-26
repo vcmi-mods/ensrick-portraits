@@ -1,5 +1,7 @@
 {
     "name" : "Kyrre (Male)",
+    "version" : "2.0",
+    "author" : "Ensrick",
     "modType" : "Heroes",
     "keepDisabled" : true,
     "softDepends" : [

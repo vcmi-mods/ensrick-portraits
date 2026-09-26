@@ -1,5 +1,7 @@
 {
     "name" : "Necropolis",
+    "version" : "2.0",
+    "author" : "Ensrick",
     "description" : "Necropolis hero portrait options.",
     "modType" : "Graphical",
     "czech" : {

@@ -1,5 +1,7 @@
 {
     "name" : "Axsis",
+    "version" : "2.0",
+    "author" : "Ensrick",
     "modType" : "Graphical",
     "czech" : {
         "name": "Axsis"

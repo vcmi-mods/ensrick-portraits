@@ -1,5 +1,7 @@
 {
     "name" : "Gem (No Facepaint)",
+    "version" : "2.0",
+    "author" : "Ensrick",
     "modType" : "Graphical",
     "keepDisabled" : true,
     "softDepends" : [

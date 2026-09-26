@@ -1,5 +1,7 @@
 {
     "name" : "Crag Hack (Heroes I & II)",
+    "version" : "2.0",
+    "author" : "Ensrick",
     "modType" : "Graphical",
     "keepDisabled" : true,
     "softDepends" : [

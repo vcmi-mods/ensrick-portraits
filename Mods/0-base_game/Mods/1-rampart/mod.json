@@ -1,5 +1,7 @@
 {
     "name" : "Rampart",
+    "version" : "2.0",
+    "author" : "Ensrick",
     "description" : "Rampart hero portrait options.",
     "modType" : "Graphical",
     "keepDisabled" : false,

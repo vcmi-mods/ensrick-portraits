@@ -1,5 +1,7 @@
 {
     "name" : "Conflux",
+    "version" : "2.0",
+    "author" : "Ensrick",
     "description" : "Conflux hero portrait options.",
     "modType" : "Graphical",
     "czech" : {

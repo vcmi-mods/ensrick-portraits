@@ -1,5 +1,7 @@
 {
     "name" : "Crag Hack",
+    "version" : "2.0",
+    "author" : "Ensrick",
     "modType" : "Graphical",
     "czech" : {
         "name": "Crag Hack"

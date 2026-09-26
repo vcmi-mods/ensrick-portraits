@@ -1,5 +1,7 @@
 {
     "name" : "Tyraxor",
+    "version" : "2.0",
+    "author" : "Ensrick",
     "modType" : "Graphical",
     "czech" : {
         "name": "Tyraxor"
