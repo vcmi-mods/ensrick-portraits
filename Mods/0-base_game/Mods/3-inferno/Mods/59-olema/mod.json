@@ -1,30 +1,30 @@
 {
-    "name" : "Olema",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Olema"
-    },
-    "chinese" : {
-        "name": "奥莱玛"
-    },
-    "german" : {
-        "name": "Olema"
-    },
-    "hungarian" : {
-        "name": "Olema"
-    },
-    "polish" : {
-        "name": "Olema"
-    },
-    "russian" : {
-        "name": "Олема"
-    },
-    "swedish" : {
-        "name": "Olema"
-    },
-    "ukrainian" : {
-        "name": "Олема"
-    }
+	"name" : "Olema",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Olema"
+	},
+	"chinese" : {
+		"name" : "奥莱玛"
+	},
+	"german" : {
+		"name" : "Olema"
+	},
+	"hungarian" : {
+		"name" : "Olema"
+	},
+	"polish" : {
+		"name" : "Olema"
+	},
+	"russian" : {
+		"name" : "Олема"
+	},
+	"swedish" : {
+		"name" : "Olema"
+	},
+	"ukrainian" : {
+		"name" : "Олема"
+	}
 }

@@ -1,30 +1,30 @@
 {
-    "name" : "Edric",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Edric"
-    },
-    "chinese" : {
-        "name": "艾得力克"
-    },
-    "german" : {
-        "name": "Edric"
-    },
-    "hungarian" : {
-        "name": "Edric"
-    },
-    "polish" : {
-        "name": "Edric"
-    },
-    "russian" : {
-        "name": "Эдрик"
-    },
-    "swedish" : {
-        "name": "Edric"
-    },
-    "ukrainian" : {
-        "name": "Едрик"
-    }
+	"name" : "Edric",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Edric"
+	},
+	"chinese" : {
+		"name" : "艾得力克"
+	},
+	"german" : {
+		"name" : "Edric"
+	},
+	"hungarian" : {
+		"name" : "Edric"
+	},
+	"polish" : {
+		"name" : "Edric"
+	},
+	"russian" : {
+		"name" : "Эдрик"
+	},
+	"swedish" : {
+		"name" : "Edric"
+	},
+	"ukrainian" : {
+		"name" : "Едрик"
+	}
 }

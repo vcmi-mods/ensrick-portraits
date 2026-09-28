@@ -1,30 +1,30 @@
 {
-    "name" : "Gundula",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Gundula"
-    },
-    "chinese" : {
-        "name": "冈杜拉"
-    },
-    "german" : {
-        "name": "Gundula"
-    },
-    "hungarian" : {
-        "name": "Gundula"
-    },
-    "polish" : {
-        "name": "Gundula"
-    },
-    "russian" : {
-        "name": "Гундулa"
-    },
-    "swedish" : {
-        "name": "Gundula"
-    },
-    "ukrainian" : {
-        "name": "Гундулa"
-    }
+	"name" : "Gundula",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Gundula"
+	},
+	"chinese" : {
+		"name" : "冈杜拉"
+	},
+	"german" : {
+		"name" : "Gundula"
+	},
+	"hungarian" : {
+		"name" : "Gundula"
+	},
+	"polish" : {
+		"name" : "Gundula"
+	},
+	"russian" : {
+		"name" : "Гундулa"
+	},
+	"swedish" : {
+		"name" : "Gundula"
+	},
+	"ukrainian" : {
+		"name" : "Гундулa"
+	}
 }

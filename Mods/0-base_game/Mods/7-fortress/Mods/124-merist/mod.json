@@ -1,30 +1,30 @@
 {
-    "name" : "Merist",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Merist"
-    },
-    "chinese" : {
-        "name": "梅里斯特"
-    },
-    "german" : {
-        "name": "Merist"
-    },
-    "hungarian" : {
-        "name": "Merist"
-    },
-    "polish" : {
-        "name": "Merist"
-    },
-    "russian" : {
-        "name": "Мерист"
-    },
-    "swedish" : {
-        "name": "Merist"
-    },
-    "ukrainian" : {
-        "name": "Меріст"
-    }
+	"name" : "Merist",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Merist"
+	},
+	"chinese" : {
+		"name" : "梅里斯特"
+	},
+	"german" : {
+		"name" : "Merist"
+	},
+	"hungarian" : {
+		"name" : "Merist"
+	},
+	"polish" : {
+		"name" : "Merist"
+	},
+	"russian" : {
+		"name" : "Мерист"
+	},
+	"swedish" : {
+		"name" : "Merist"
+	},
+	"ukrainian" : {
+		"name" : "Меріст"
+	}
 }

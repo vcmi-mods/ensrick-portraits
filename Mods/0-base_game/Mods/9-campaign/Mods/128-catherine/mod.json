@@ -1,30 +1,30 @@
 {
-    "name" : "Catherine",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Catherine"
-    },
-    "chinese" : {
-        "name": "凯瑟琳"
-    },
-    "german" : {
-        "name": "Catherine"
-    },
-    "hungarian" : {
-        "name": "Catherine"
-    },
-    "polish" : {
-        "name": "Catherine"
-    },
-    "russian" : {
-        "name": "Кэтрин"
-    },
-    "swedish" : {
-        "name": "Catherine"
-    },
-    "ukrainian" : {
-        "name": "Кетрін"
-    }
+	"name" : "Catherine",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Catherine"
+	},
+	"chinese" : {
+		"name" : "凯瑟琳"
+	},
+	"german" : {
+		"name" : "Catherine"
+	},
+	"hungarian" : {
+		"name" : "Catherine"
+	},
+	"polish" : {
+		"name" : "Catherine"
+	},
+	"russian" : {
+		"name" : "Кэтрин"
+	},
+	"swedish" : {
+		"name" : "Catherine"
+	},
+	"ukrainian" : {
+		"name" : "Кетрін"
+	}
 }

@@ -1,30 +1,30 @@
 {
-    "name" : "Rissa",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Rissa"
-    },
-    "chinese" : {
-        "name": "瑞萨"
-    },
-    "german" : {
-        "name": "Rissa"
-    },
-    "hungarian" : {
-        "name": "Rissa"
-    },
-    "polish" : {
-        "name": "Rissa"
-    },
-    "russian" : {
-        "name": "Рисса"
-    },
-    "swedish" : {
-        "name": "Rissa"
-    },
-    "ukrainian" : {
-        "name": "Рісса"
-    }
+	"name" : "Rissa",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Rissa"
+	},
+	"chinese" : {
+		"name" : "瑞萨"
+	},
+	"german" : {
+		"name" : "Rissa"
+	},
+	"hungarian" : {
+		"name" : "Rissa"
+	},
+	"polish" : {
+		"name" : "Rissa"
+	},
+	"russian" : {
+		"name" : "Рисса"
+	},
+	"swedish" : {
+		"name" : "Rissa"
+	},
+	"ukrainian" : {
+		"name" : "Рісса"
+	}
 }

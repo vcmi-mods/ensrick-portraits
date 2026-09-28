@@ -1,30 +1,30 @@
 {
-    "name" : "Ingham",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Ingham"
-    },
-    "chinese" : {
-        "name": "因海姆"
-    },
-    "german" : {
-        "name": "Ingham"
-    },
-    "hungarian" : {
-        "name": "Ingham"
-    },
-    "polish" : {
-        "name": "Ingham"
-    },
-    "russian" : {
-        "name": "Ингэм"
-    },
-    "swedish" : {
-        "name": "Ingham"
-    },
-    "ukrainian" : {
-        "name": "Інгем"
-    }
+	"name" : "Ingham",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Ingham"
+	},
+	"chinese" : {
+		"name" : "因海姆"
+	},
+	"german" : {
+		"name" : "Ingham"
+	},
+	"hungarian" : {
+		"name" : "Ingham"
+	},
+	"polish" : {
+		"name" : "Ingham"
+	},
+	"russian" : {
+		"name" : "Ингэм"
+	},
+	"swedish" : {
+		"name" : "Ingham"
+	},
+	"ukrainian" : {
+		"name" : "Інгем"
+	}
 }

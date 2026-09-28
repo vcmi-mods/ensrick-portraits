@@ -1,30 +1,30 @@
 {
-    "name" : "Loynis",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Loynis"
-    },
-    "chinese" : {
-        "name": "罗尼斯"
-    },
-    "german" : {
-        "name": "Loynis"
-    },
-    "hungarian" : {
-        "name": "Loynis"
-    },
-    "polish" : {
-        "name": "Loynis"
-    },
-    "russian" : {
-        "name": "Лойнис"
-    },
-    "swedish" : {
-        "name": "Loynis"
-    },
-    "ukrainian" : {
-        "name": "Лойніс"
-    }
+	"name" : "Loynis",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Loynis"
+	},
+	"chinese" : {
+		"name" : "罗尼斯"
+	},
+	"german" : {
+		"name" : "Loynis"
+	},
+	"hungarian" : {
+		"name" : "Loynis"
+	},
+	"polish" : {
+		"name" : "Loynis"
+	},
+	"russian" : {
+		"name" : "Лойнис"
+	},
+	"swedish" : {
+		"name" : "Loynis"
+	},
+	"ukrainian" : {
+		"name" : "Лойніс"
+	}
 }

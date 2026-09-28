@@ -1,30 +1,30 @@
 {
-    "name" : "Mutare",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Mutare"
-    },
-    "chinese" : {
-        "name": "穆塔雷"
-    },
-    "german" : {
-        "name": "Mutare"
-    },
-    "hungarian" : {
-        "name": "Mutare"
-    },
-    "polish" : {
-        "name": "Mutare"
-    },
-    "russian" : {
-        "name": "Мутаре"
-    },
-    "swedish" : {
-        "name": "Mutare"
-    },
-    "ukrainian" : {
-        "name": "Мутаре"
-    }
+	"name" : "Mutare",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Mutare"
+	},
+	"chinese" : {
+		"name" : "穆塔雷"
+	},
+	"german" : {
+		"name" : "Mutare"
+	},
+	"hungarian" : {
+		"name" : "Mutare"
+	},
+	"polish" : {
+		"name" : "Mutare"
+	},
+	"russian" : {
+		"name" : "Мутаре"
+	},
+	"swedish" : {
+		"name" : "Mutare"
+	},
+	"ukrainian" : {
+		"name" : "Мутаре"
+	}
 }

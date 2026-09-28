@@ -1,39 +1,39 @@
 {
-    "name" : "Fortress",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "description" : "Fortress hero portrait options.",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Portréty hrdinů Fortressu",
-        "description": "Volitelné portréty pro hrdiny Fortressu."
-    },
-    "chinese" : {
-        "name": "要塞头像",
-        "description": "为要塞英雄提供的可选头像。"
-    },
-    "german" : {
-        "name": "Fortress-Porträts",
-        "description": "Optionale Porträts für die Fortress-Helden."
-    },
-    "hungarian" : {
-        "name": "Fortress portrék",
-        "description": "Választható portrék a Fortress hőseihez."
-    },
-    "polish" : {
-        "name": "Portrety Fortressu",
-        "description": "Opcjonalne portrety dla bohaterów Fortressu."
-    },
-    "russian" : {
-        "name": "Портреты Фортресса",
-        "description": "Дополнительные портреты для героев Фортресса."
-    },
-    "swedish" : {
-        "name": "Fortress-porträtt",
-        "description": "Valfria porträtt för Fortress-hjältarna."
-    },
-    "ukrainian" : {
-        "name": "Портрети Фортресу",
-        "description": "Додаткові портрети для героїв Фортресу."
-    }
+	"name" : "Fortress",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"description" : "Fortress hero portrait options.",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Portréty hrdinů Fortressu",
+		"description" : "Volitelné portréty pro hrdiny Fortressu."
+	},
+	"chinese" : {
+		"name" : "要塞头像",
+		"description" : "为要塞英雄提供的可选头像。"
+	},
+	"german" : {
+		"name" : "Fortress-Porträts",
+		"description" : "Optionale Porträts für die Fortress-Helden."
+	},
+	"hungarian" : {
+		"name" : "Fortress portrék",
+		"description" : "Választható portrék a Fortress hőseihez."
+	},
+	"polish" : {
+		"name" : "Portrety Fortressu",
+		"description" : "Opcjonalne portrety dla bohaterów Fortressu."
+	},
+	"russian" : {
+		"name" : "Портреты Фортресса",
+		"description" : "Дополнительные портреты для героев Фортресса."
+	},
+	"swedish" : {
+		"name" : "Fortress-porträtt",
+		"description" : "Valfria porträtt för Fortress-hjältarna."
+	},
+	"ukrainian" : {
+		"name" : "Портрети Фортресу",
+		"description" : "Додаткові портрети для героїв Фортресу."
+	}
 }

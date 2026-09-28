@@ -1,30 +1,30 @@
 {
-    "name" : "Pyre",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Pyre"
-    },
-    "chinese" : {
-        "name": "派尔"
-    },
-    "german" : {
-        "name": "Pyre"
-    },
-    "hungarian" : {
-        "name": "Pyre"
-    },
-    "polish" : {
-        "name": "Pyre"
-    },
-    "russian" : {
-        "name": "Пайр"
-    },
-    "swedish" : {
-        "name": "Pyre"
-    },
-    "ukrainian" : {
-        "name": "Пайр"
-    }
+	"name" : "Pyre",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Pyre"
+	},
+	"chinese" : {
+		"name" : "派尔"
+	},
+	"german" : {
+		"name" : "Pyre"
+	},
+	"hungarian" : {
+		"name" : "Pyre"
+	},
+	"polish" : {
+		"name" : "Pyre"
+	},
+	"russian" : {
+		"name" : "Пайр"
+	},
+	"swedish" : {
+		"name" : "Pyre"
+	},
+	"ukrainian" : {
+		"name" : "Пайр"
+	}
 }

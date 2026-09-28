@@ -1,34 +1,34 @@
 {
-    "name" : "Monere (human-like)",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "keepDisabled" : true,
-    "softDepends" : [
-        "ensrick-portraits.0-base_game.8-conflux.A-4-monere"
-    ],
-    "czech" : {
-        "name": "Monere (Lidský Vzhled)"
-    },
-    "chinese" : {
-        "name": "莫内雷（类人形）"
-    },
-    "german" : {
-        "name": "Monere (Menschenähnlich)"
-    },
-    "hungarian" : {
-        "name": "Monere (Emberszerű)"
-    },
-    "polish" : {
-        "name": "Monere (Człekopodobny)"
-    },
-    "russian" : {
-        "name": "Монере (Человеческий Облик)"
-    },
-    "swedish" : {
-        "name": "Monere (Människolik)"
-    },
-    "ukrainian" : {
-        "name": "Монере (Людиноподібний)"
-    }
+	"name" : "Monere (human-like)",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"keepDisabled" : true,
+	"softDepends" : [
+		"ensrick-portraits.0-base_game.8-conflux.A-4-monere"
+	],
+	"czech" : {
+		"name" : "Monere (Lidský Vzhled)"
+	},
+	"chinese" : {
+		"name" : "莫内雷（类人形）"
+	},
+	"german" : {
+		"name" : "Monere (Menschenähnlich)"
+	},
+	"hungarian" : {
+		"name" : "Monere (Emberszerű)"
+	},
+	"polish" : {
+		"name" : "Monere (Człekopodobny)"
+	},
+	"russian" : {
+		"name" : "Монере (Человеческий Облик)"
+	},
+	"swedish" : {
+		"name" : "Monere (Människolik)"
+	},
+	"ukrainian" : {
+		"name" : "Монере (Людиноподібний)"
+	}
 }

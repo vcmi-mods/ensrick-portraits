@@ -1,30 +1,30 @@
 {
-    "name" : "Rion",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Rion"
-    },
-    "chinese" : {
-        "name": "瑞恩"
-    },
-    "german" : {
-        "name": "Rion"
-    },
-    "hungarian" : {
-        "name": "Rion"
-    },
-    "polish" : {
-        "name": "Rion"
-    },
-    "russian" : {
-        "name": "Рион"
-    },
-    "swedish" : {
-        "name": "Rion"
-    },
-    "ukrainian" : {
-        "name": "Ріон"
-    }
+	"name" : "Rion",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Rion"
+	},
+	"chinese" : {
+		"name" : "瑞恩"
+	},
+	"german" : {
+		"name" : "Rion"
+	},
+	"hungarian" : {
+		"name" : "Rion"
+	},
+	"polish" : {
+		"name" : "Rion"
+	},
+	"russian" : {
+		"name" : "Рион"
+	},
+	"swedish" : {
+		"name" : "Rion"
+	},
+	"ukrainian" : {
+		"name" : "Ріон"
+	}
 }

@@ -1,30 +1,30 @@
 {
-    "name" : "Xyron",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Xyron"
-    },
-    "chinese" : {
-        "name": "赛朗"
-    },
-    "german" : {
-        "name": "Xyron"
-    },
-    "hungarian" : {
-        "name": "Xyron"
-    },
-    "polish" : {
-        "name": "Xyron"
-    },
-    "russian" : {
-        "name": "Кси́рон"
-    },
-    "swedish" : {
-        "name": "Xyron"
-    },
-    "ukrainian" : {
-        "name": "Ксірон"
-    }
+	"name" : "Xyron",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Xyron"
+	},
+	"chinese" : {
+		"name" : "赛朗"
+	},
+	"german" : {
+		"name" : "Xyron"
+	},
+	"hungarian" : {
+		"name" : "Xyron"
+	},
+	"polish" : {
+		"name" : "Xyron"
+	},
+	"russian" : {
+		"name" : "Кси́рон"
+	},
+	"swedish" : {
+		"name" : "Xyron"
+	},
+	"ukrainian" : {
+		"name" : "Ксірон"
+	}
 }

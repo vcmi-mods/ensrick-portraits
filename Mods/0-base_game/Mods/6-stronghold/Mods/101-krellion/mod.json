@@ -1,30 +1,30 @@
 {
-    "name" : "Krellion",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Krellion"
-    },
-    "chinese" : {
-        "name": "克雷利恩"
-    },
-    "german" : {
-        "name": "Krellion"
-    },
-    "hungarian" : {
-        "name": "Krellion"
-    },
-    "polish" : {
-        "name": "Krellion"
-    },
-    "russian" : {
-        "name": "Креллион"
-    },
-    "swedish" : {
-        "name": "Krellion"
-    },
-    "ukrainian" : {
-        "name": "Крелліон"
-    }
+	"name" : "Krellion",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Krellion"
+	},
+	"chinese" : {
+		"name" : "克雷利恩"
+	},
+	"german" : {
+		"name" : "Krellion"
+	},
+	"hungarian" : {
+		"name" : "Krellion"
+	},
+	"polish" : {
+		"name" : "Krellion"
+	},
+	"russian" : {
+		"name" : "Креллион"
+	},
+	"swedish" : {
+		"name" : "Krellion"
+	},
+	"ukrainian" : {
+		"name" : "Крелліон"
+	}
 }

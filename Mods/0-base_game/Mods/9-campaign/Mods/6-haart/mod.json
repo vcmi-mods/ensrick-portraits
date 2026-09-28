@@ -1,30 +1,30 @@
 {
-    "name" : "Lord Haart",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Lord Haart"
-    },
-    "chinese" : {
-        "name": "哈特勋爵"
-    },
-    "german" : {
-        "name": "Lord Haart"
-    },
-    "hungarian" : {
-        "name": "Lord Haart"
-    },
-    "polish" : {
-        "name": "Lord Haart"
-    },
-    "russian" : {
-        "name": "Лорд Харт"
-    },
-    "swedish" : {
-        "name": "Lord Haart"
-    },
-    "ukrainian" : {
-        "name": "Лорд Гарт"
-    }
+	"name" : "Lord Haart",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Lord Haart"
+	},
+	"chinese" : {
+		"name" : "哈特勋爵"
+	},
+	"german" : {
+		"name" : "Lord Haart"
+	},
+	"hungarian" : {
+		"name" : "Lord Haart"
+	},
+	"polish" : {
+		"name" : "Lord Haart"
+	},
+	"russian" : {
+		"name" : "Лорд Харт"
+	},
+	"swedish" : {
+		"name" : "Lord Haart"
+	},
+	"ukrainian" : {
+		"name" : "Лорд Гарт"
+	}
 }

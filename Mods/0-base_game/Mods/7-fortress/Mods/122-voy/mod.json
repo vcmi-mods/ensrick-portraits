@@ -1,30 +1,30 @@
 {
-    "name" : "Voy",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Voy"
-    },
-    "chinese" : {
-        "name": "沃伊"
-    },
-    "german" : {
-        "name": "Voy"
-    },
-    "hungarian" : {
-        "name": "Voy"
-    },
-    "polish" : {
-        "name": "Voy"
-    },
-    "russian" : {
-        "name": "Вой"
-    },
-    "swedish" : {
-        "name": "Voy"
-    },
-    "ukrainian" : {
-        "name": "Вой"
-    }
+	"name" : "Voy",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Voy"
+	},
+	"chinese" : {
+		"name" : "沃伊"
+	},
+	"german" : {
+		"name" : "Voy"
+	},
+	"hungarian" : {
+		"name" : "Voy"
+	},
+	"polish" : {
+		"name" : "Voy"
+	},
+	"russian" : {
+		"name" : "Вой"
+	},
+	"swedish" : {
+		"name" : "Voy"
+	},
+	"ukrainian" : {
+		"name" : "Вой"
+	}
 }

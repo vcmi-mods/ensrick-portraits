@@ -1,30 +1,30 @@
 {
-    "name" : "Korbac",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Korbac"
-    },
-    "chinese" : {
-        "name": "科尔巴克"
-    },
-    "german" : {
-        "name": "Korbac"
-    },
-    "hungarian" : {
-        "name": "Korbac"
-    },
-    "polish" : {
-        "name": "Korbac"
-    },
-    "russian" : {
-        "name": "Корбак"
-    },
-    "swedish" : {
-        "name": "Korbac"
-    },
-    "ukrainian" : {
-        "name": "Корбак"
-    }
+	"name" : "Korbac",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Korbac"
+	},
+	"chinese" : {
+		"name" : "科尔巴克"
+	},
+	"german" : {
+		"name" : "Korbac"
+	},
+	"hungarian" : {
+		"name" : "Korbac"
+	},
+	"polish" : {
+		"name" : "Korbac"
+	},
+	"russian" : {
+		"name" : "Корбак"
+	},
+	"swedish" : {
+		"name" : "Korbac"
+	},
+	"ukrainian" : {
+		"name" : "Корбак"
+	}
 }

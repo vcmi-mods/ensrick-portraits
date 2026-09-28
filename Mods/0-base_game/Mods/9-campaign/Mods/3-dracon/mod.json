@@ -1,30 +1,30 @@
 {
-    "name" : "Dracon",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Dracon"
-    },
-    "chinese" : {
-        "name": "德拉肯"
-    },
-    "german" : {
-        "name": "Dracon"
-    },
-    "hungarian" : {
-        "name": "Dracon"
-    },
-    "polish" : {
-        "name": "Dracon"
-    },
-    "russian" : {
-        "name": "Дракон"
-    },
-    "swedish" : {
-        "name": "Dracon"
-    },
-    "ukrainian" : {
-        "name": "Дракон"
-    }
+	"name" : "Dracon",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Dracon"
+	},
+	"chinese" : {
+		"name" : "德拉肯"
+	},
+	"german" : {
+		"name" : "Dracon"
+	},
+	"hungarian" : {
+		"name" : "Dracon"
+	},
+	"polish" : {
+		"name" : "Dracon"
+	},
+	"russian" : {
+		"name" : "Дракон"
+	},
+	"swedish" : {
+		"name" : "Dracon"
+	},
+	"ukrainian" : {
+		"name" : "Дракон"
+	}
 }

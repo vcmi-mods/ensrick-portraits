@@ -1,30 +1,30 @@
 {
-    "name" : "Geon",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Geon"
-    },
-    "chinese" : {
-        "name": "基昂"
-    },
-    "german" : {
-        "name": "Geon"
-    },
-    "hungarian" : {
-        "name": "Geon"
-    },
-    "polish" : {
-        "name": "Geon"
-    },
-    "russian" : {
-        "name": "Джион"
-    },
-    "swedish" : {
-        "name": "Geon"
-    },
-    "ukrainian" : {
-        "name": "Джіон"
-    }
+	"name" : "Geon",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Geon"
+	},
+	"chinese" : {
+		"name" : "基昂"
+	},
+	"german" : {
+		"name" : "Geon"
+	},
+	"hungarian" : {
+		"name" : "Geon"
+	},
+	"polish" : {
+		"name" : "Geon"
+	},
+	"russian" : {
+		"name" : "Джион"
+	},
+	"swedish" : {
+		"name" : "Geon"
+	},
+	"ukrainian" : {
+		"name" : "Джіон"
+	}
 }

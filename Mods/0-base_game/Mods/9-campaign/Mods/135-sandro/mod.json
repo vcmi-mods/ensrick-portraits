@@ -1,30 +1,30 @@
 {
-    "name" : "Sandro",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Sandro"
-    },
-    "chinese" : {
-        "name": "桑德罗"
-    },
-    "german" : {
-        "name": "Sandro"
-    },
-    "hungarian" : {
-        "name": "Sandro"
-    },
-    "polish" : {
-        "name": "Sandro"
-    },
-    "russian" : {
-        "name": "Сандро"
-    },
-    "swedish" : {
-        "name": "Sandro"
-    },
-    "ukrainian" : {
-        "name": "Сандро"
-    }
+	"name" : "Sandro",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Sandro"
+	},
+	"chinese" : {
+		"name" : "桑德罗"
+	},
+	"german" : {
+		"name" : "Sandro"
+	},
+	"hungarian" : {
+		"name" : "Sandro"
+	},
+	"polish" : {
+		"name" : "Sandro"
+	},
+	"russian" : {
+		"name" : "Сандро"
+	},
+	"swedish" : {
+		"name" : "Sandro"
+	},
+	"ukrainian" : {
+		"name" : "Сандро"
+	}
 }

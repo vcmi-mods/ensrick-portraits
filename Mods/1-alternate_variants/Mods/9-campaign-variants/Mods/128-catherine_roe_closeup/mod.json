@@ -1,34 +1,34 @@
 {
-    "name" : "Catherine (RoE Closeup)",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "keepDisabled" : true,
-    "softDepends" : [
-        "ensrick-portraits.9-campaign.128-catherine"
-    ],
-    "czech" : {
-        "name": "Catherine (RoE Closeup)"
-    },
-    "chinese" : {
-        "name": "凯瑟琳（RoE 特写）"
-    },
-    "german" : {
-        "name": "Catherine (RoE Closeup)"
-    },
-    "hungarian" : {
-        "name": "Catherine (RoE Closeup)"
-    },
-    "polish" : {
-        "name": "Catherine (RoE Closeup)"
-    },
-    "russian" : {
-        "name": "Кэтрин (RoE крупный план)"
-    },
-    "swedish" : {
-        "name": "Catherine (RoE Closeup)"
-    },
-    "ukrainian" : {
-        "name": "Кетрін (RoE крупний план)"
-    }
+	"name" : "Catherine (RoE Closeup)",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"keepDisabled" : true,
+	"softDepends" : [
+		"ensrick-portraits.9-campaign.128-catherine"
+	],
+	"czech" : {
+		"name" : "Catherine (RoE Closeup)"
+	},
+	"chinese" : {
+		"name" : "凯瑟琳（RoE 特写）"
+	},
+	"german" : {
+		"name" : "Catherine (RoE Closeup)"
+	},
+	"hungarian" : {
+		"name" : "Catherine (RoE Closeup)"
+	},
+	"polish" : {
+		"name" : "Catherine (RoE Closeup)"
+	},
+	"russian" : {
+		"name" : "Кэтрин (RoE крупный план)"
+	},
+	"swedish" : {
+		"name" : "Catherine (RoE Closeup)"
+	},
+	"ukrainian" : {
+		"name" : "Кетрін (RoE крупний план)"
+	}
 }

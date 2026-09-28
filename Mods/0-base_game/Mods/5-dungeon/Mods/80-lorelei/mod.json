@@ -1,30 +1,30 @@
 {
-    "name" : "Lorelei",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Lorelei"
-    },
-    "chinese" : {
-        "name": "洛蕾莱"
-    },
-    "german" : {
-        "name": "Lorelei"
-    },
-    "hungarian" : {
-        "name": "Lorelei"
-    },
-    "polish" : {
-        "name": "Lorelei"
-    },
-    "russian" : {
-        "name": "Лорелей"
-    },
-    "swedish" : {
-        "name": "Lorelei"
-    },
-    "ukrainian" : {
-        "name": "Лорелей"
-    }
+	"name" : "Lorelei",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Lorelei"
+	},
+	"chinese" : {
+		"name" : "洛蕾莱"
+	},
+	"german" : {
+		"name" : "Lorelei"
+	},
+	"hungarian" : {
+		"name" : "Lorelei"
+	},
+	"polish" : {
+		"name" : "Lorelei"
+	},
+	"russian" : {
+		"name" : "Лорелей"
+	},
+	"swedish" : {
+		"name" : "Lorelei"
+	},
+	"ukrainian" : {
+		"name" : "Лорелей"
+	}
 }

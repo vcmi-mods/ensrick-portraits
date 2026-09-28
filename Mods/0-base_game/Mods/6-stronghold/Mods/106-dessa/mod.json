@@ -1,30 +1,30 @@
 {
-    "name" : "Dessa",
-    "version" : "2.0",
-    "author" : "Ensrick",
-    "modType" : "Graphical",
-    "czech" : {
-        "name": "Dessa"
-    },
-    "chinese" : {
-        "name": "德萨"
-    },
-    "german" : {
-        "name": "Dessa"
-    },
-    "hungarian" : {
-        "name": "Dessa"
-    },
-    "polish" : {
-        "name": "Dessa"
-    },
-    "russian" : {
-        "name": "Десса"
-    },
-    "swedish" : {
-        "name": "Dessa"
-    },
-    "ukrainian" : {
-        "name": "Десса"
-    }
+	"name" : "Dessa",
+	"version" : "2.0",
+	"author" : "Ensrick",
+	"modType" : "Graphical",
+	"czech" : {
+		"name" : "Dessa"
+	},
+	"chinese" : {
+		"name" : "德萨"
+	},
+	"german" : {
+		"name" : "Dessa"
+	},
+	"hungarian" : {
+		"name" : "Dessa"
+	},
+	"polish" : {
+		"name" : "Dessa"
+	},
+	"russian" : {
+		"name" : "Десса"
+	},
+	"swedish" : {
+		"name" : "Dessa"
+	},
+	"ukrainian" : {
+		"name" : "Десса"
+	}
 }
