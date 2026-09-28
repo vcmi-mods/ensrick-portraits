@@ -1,0 +1,30 @@
+{
+    "name" : "Gelare",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Gelare"
+    },
+    "chinese" : {
+        "name": "盖拉雷"
+    },
+    "german" : {
+        "name": "Gelare"
+    },
+    "hungarian" : {
+        "name": "Gelare"
+    },
+    "polish" : {
+        "name": "Gelare"
+    },
+    "russian" : {
+        "name": "Геларе"
+    },
+    "swedish" : {
+        "name": "Gelare"
+    },
+    "ukrainian" : {
+        "name": "Геларе"
+    }
+}

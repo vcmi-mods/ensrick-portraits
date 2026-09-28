@@ -1,0 +1,30 @@
+{
+    "name" : "Roland",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Roland"
+    },
+    "chinese" : {
+        "name": "罗兰德"
+    },
+    "german" : {
+        "name": "Roland"
+    },
+    "hungarian" : {
+        "name": "Roland"
+    },
+    "polish" : {
+        "name": "Roland"
+    },
+    "russian" : {
+        "name": "Роланд"
+    },
+    "swedish" : {
+        "name": "Roland"
+    },
+    "ukrainian" : {
+        "name": "Роланд"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name" : "Thane",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Thane"
+    },
+    "chinese" : {
+        "name": "塞恩"
+    },
+    "german" : {
+        "name": "Thane"
+    },
+    "hungarian" : {
+        "name": "Thane"
+    },
+    "polish" : {
+        "name": "Thane"
+    },
+    "russian" : {
+        "name": "Тейн"
+    },
+    "swedish" : {
+        "name": "Thane"
+    },
+    "ukrainian" : {
+        "name": "Тейн"
+    }
+}

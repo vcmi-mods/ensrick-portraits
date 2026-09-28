@@ -1,0 +1,30 @@
+{
+    "name" : "Orrin",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Orrin"
+    },
+    "chinese" : {
+        "name": "欧灵"
+    },
+    "german" : {
+        "name": "Orrin"
+    },
+    "hungarian" : {
+        "name": "Orrin"
+    },
+    "polish" : {
+        "name": "Orrin"
+    },
+    "russian" : {
+        "name": "Оррин"
+    },
+    "swedish" : {
+        "name": "Orrin"
+    },
+    "ukrainian" : {
+        "name": "Оррін"
+    }
+}

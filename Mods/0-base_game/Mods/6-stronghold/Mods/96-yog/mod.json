@@ -1,0 +1,30 @@
+{
+    "name" : "Yog",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Yog"
+    },
+    "chinese" : {
+        "name": "尤格"
+    },
+    "german" : {
+        "name": "Yog"
+    },
+    "hungarian" : {
+        "name": "Yog"
+    },
+    "polish" : {
+        "name": "Yog"
+    },
+    "russian" : {
+        "name": "Йог"
+    },
+    "swedish" : {
+        "name": "Yog"
+    },
+    "ukrainian" : {
+        "name": "Йог"
+    }
+}

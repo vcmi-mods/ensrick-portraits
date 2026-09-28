@@ -1,0 +1,30 @@
+{
+    "name" : "Fiur",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Fiur"
+    },
+    "chinese" : {
+        "name": "菲乌尔"
+    },
+    "german" : {
+        "name": "Fiur"
+    },
+    "hungarian" : {
+        "name": "Fiur"
+    },
+    "polish" : {
+        "name": "Fiur"
+    },
+    "russian" : {
+        "name": "Фиур"
+    },
+    "swedish" : {
+        "name": "Fiur"
+    },
+    "ukrainian" : {
+        "name": "Фіур"
+    }
+}

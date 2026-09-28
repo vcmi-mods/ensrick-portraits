@@ -1,0 +1,34 @@
+{
+    "name" : "Coronius (New Pose)",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Heroes",
+    "keepDisabled" : true,
+    "softDepends" : [
+        "ensrick-portraits.1-rampart.24-coronius"
+    ],
+    "czech" : {
+        "name": "Coronius (Nová póza)"
+    },
+    "chinese" : {
+        "name": "科罗纽斯（新姿势）"
+    },
+    "german" : {
+        "name": "Coronius (Neue Pose)"
+    },
+    "hungarian" : {
+        "name": "Coronius (Új póz)"
+    },
+    "polish" : {
+        "name": "Coronius (Nowa poza)"
+    },
+    "russian" : {
+        "name": "Крониус (Новая поза)"
+    },
+    "swedish" : {
+        "name": "Coronius (Ny pose)"
+    },
+    "ukrainian" : {
+        "name": "Кроніус (Нова поза)"
+    }
+}

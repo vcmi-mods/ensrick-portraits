@@ -1,0 +1,30 @@
+{
+    "name" : "Zydar",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Zydar"
+    },
+    "chinese" : {
+        "name": "兹达尔"
+    },
+    "german" : {
+        "name": "Zydar"
+    },
+    "hungarian" : {
+        "name": "Zydar"
+    },
+    "polish" : {
+        "name": "Zydar"
+    },
+    "russian" : {
+        "name": "Зидар"
+    },
+    "swedish" : {
+        "name": "Zydar"
+    },
+    "ukrainian" : {
+        "name": "Зідар"
+    }
+}

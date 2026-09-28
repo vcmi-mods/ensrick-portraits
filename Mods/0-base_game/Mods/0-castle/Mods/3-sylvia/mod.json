@@ -1,0 +1,30 @@
+{
+    "name" : "Sylvia",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Sylvia"
+    },
+    "chinese" : {
+        "name": "斯尔维亚"
+    },
+    "german" : {
+        "name": "Sylvia"
+    },
+    "hungarian" : {
+        "name": "Sylvia"
+    },
+    "polish" : {
+        "name": "Sylvia"
+    },
+    "russian" : {
+        "name": "Сильвия"
+    },
+    "swedish" : {
+        "name": "Sylvia"
+    },
+    "ukrainian" : {
+        "name": "Сільвія"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name" : "Vokial",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Vokial"
+    },
+    "chinese" : {
+        "name": "沃基亚尔"
+    },
+    "german" : {
+        "name": "Vokial"
+    },
+    "hungarian" : {
+        "name": "Vokial"
+    },
+    "polish" : {
+        "name": "Vokial"
+    },
+    "russian" : {
+        "name": "Вокиал"
+    },
+    "swedish" : {
+        "name": "Vokial"
+    },
+    "ukrainian" : {
+        "name": "Вокіал"
+    }
+}

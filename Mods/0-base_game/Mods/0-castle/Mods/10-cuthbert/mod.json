@@ -1,0 +1,30 @@
+{
+    "name" : "Cuthbert",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Cuthbert"
+    },
+    "chinese" : {
+        "name": "库斯伯特"
+    },
+    "german" : {
+        "name": "Cuthbert"
+    },
+    "hungarian" : {
+        "name": "Cuthbert"
+    },
+    "polish" : {
+        "name": "Cuthbert"
+    },
+    "russian" : {
+        "name": "Катберт"
+    },
+    "swedish" : {
+        "name": "Cuthbert"
+    },
+    "ukrainian" : {
+        "name": "Катберт"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name" : "Mephala",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Mephala"
+    },
+    "chinese" : {
+        "name": "孟斐拉"
+    },
+    "german" : {
+        "name": "Mephala"
+    },
+    "hungarian" : {
+        "name": "Mephala"
+    },
+    "polish" : {
+        "name": "Mephala"
+    },
+    "russian" : {
+        "name": "Мефала"
+    },
+    "swedish" : {
+        "name": "Mephala"
+    },
+    "ukrainian" : {
+        "name": "Мефала"
+    }
+}

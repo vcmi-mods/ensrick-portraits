@@ -1,0 +1,30 @@
+{
+    "name" : "Iona",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Iona"
+    },
+    "chinese" : {
+        "name": "艾奥娜"
+    },
+    "german" : {
+        "name": "Iona"
+    },
+    "hungarian" : {
+        "name": "Iona"
+    },
+    "polish" : {
+        "name": "Iona"
+    },
+    "russian" : {
+        "name": "Иона"
+    },
+    "swedish" : {
+        "name": "Iona"
+    },
+    "ukrainian" : {
+        "name": "Іона"
+    }
+}

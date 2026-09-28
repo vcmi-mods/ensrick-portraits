@@ -1,0 +1,30 @@
+{
+    "name" : "Alkin",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Alkin"
+    },
+    "chinese" : {
+        "name": "阿尔金"
+    },
+    "german" : {
+        "name": "Alkin"
+    },
+    "hungarian" : {
+        "name": "Alkin"
+    },
+    "polish" : {
+        "name": "Alkin"
+    },
+    "russian" : {
+        "name": "Алкин"
+    },
+    "swedish" : {
+        "name": "Alkin"
+    },
+    "ukrainian" : {
+        "name": "Алкін"
+    }
+}

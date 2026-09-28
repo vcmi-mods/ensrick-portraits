@@ -1,0 +1,30 @@
+{
+    "name" : "Tyraxor",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Tyraxor"
+    },
+    "chinese" : {
+        "name": "泰拉克索尔"
+    },
+    "german" : {
+        "name": "Tyraxor"
+    },
+    "hungarian" : {
+        "name": "Tyraxor"
+    },
+    "polish" : {
+        "name": "Tyraxor"
+    },
+    "russian" : {
+        "name": "Тираксор"
+    },
+    "swedish" : {
+        "name": "Tyraxor"
+    },
+    "ukrainian" : {
+        "name": "Тіраксор"
+    }
+}

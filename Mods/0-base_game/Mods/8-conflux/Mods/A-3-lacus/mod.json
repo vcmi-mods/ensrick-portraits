@@ -1,0 +1,30 @@
+{
+    "name" : "Lacus",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Lacus"
+    },
+    "chinese" : {
+        "name": "拉库斯"
+    },
+    "german" : {
+        "name": "Lacus"
+    },
+    "hungarian" : {
+        "name": "Lacus"
+    },
+    "polish" : {
+        "name": "Lacus"
+    },
+    "russian" : {
+        "name": "Лакус"
+    },
+    "swedish" : {
+        "name": "Lacus"
+    },
+    "ukrainian" : {
+        "name": "Лакус"
+    }
+}

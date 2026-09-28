@@ -1,0 +1,30 @@
+{
+    "name" : "Serena",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Serena"
+    },
+    "chinese" : {
+        "name": "塞雷娜"
+    },
+    "german" : {
+        "name": "Serena"
+    },
+    "hungarian" : {
+        "name": "Serena"
+    },
+    "polish" : {
+        "name": "Serena"
+    },
+    "russian" : {
+        "name": "Серена"
+    },
+    "swedish" : {
+        "name": "Serena"
+    },
+    "ukrainian" : {
+        "name": "Серена"
+    }
+}

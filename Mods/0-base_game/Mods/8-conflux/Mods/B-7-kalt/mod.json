@@ -1,0 +1,30 @@
+{
+    "name" : "Kalt",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Kalt"
+    },
+    "chinese" : {
+        "name": "卡尔特"
+    },
+    "german" : {
+        "name": "Kalt"
+    },
+    "hungarian" : {
+        "name": "Kalt"
+    },
+    "polish" : {
+        "name": "Kalt"
+    },
+    "russian" : {
+        "name": "Калт"
+    },
+    "swedish" : {
+        "name": "Kalt"
+    },
+    "ukrainian" : {
+        "name": "Калт"
+    }
+}

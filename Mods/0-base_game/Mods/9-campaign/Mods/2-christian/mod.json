@@ -1,0 +1,30 @@
+{
+    "name" : "Christian",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Christian"
+    },
+    "chinese" : {
+        "name": "克里斯蒂安"
+    },
+    "german" : {
+        "name": "Christian"
+    },
+    "hungarian" : {
+        "name": "Christian"
+    },
+    "polish" : {
+        "name": "Christian"
+    },
+    "russian" : {
+        "name": "Кристиан"
+    },
+    "swedish" : {
+        "name": "Christian"
+    },
+    "ukrainian" : {
+        "name": "Крістіан"
+    }
+}

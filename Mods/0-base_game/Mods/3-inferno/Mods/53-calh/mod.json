@@ -1,0 +1,30 @@
+{
+    "name" : "Calh",
+    "version" : "2.0",
+    "author" : "Ensrick",
+    "modType" : "Graphical",
+    "czech" : {
+        "name": "Calh"
+    },
+    "chinese" : {
+        "name": "卡尔"
+    },
+    "german" : {
+        "name": "Calh"
+    },
+    "hungarian" : {
+        "name": "Calh"
+    },
+    "polish" : {
+        "name": "Calh"
+    },
+    "russian" : {
+        "name": "Каль"
+    },
+    "swedish" : {
+        "name": "Calh"
+    },
+    "ukrainian" : {
+        "name": "Каль"
+    }
+}
