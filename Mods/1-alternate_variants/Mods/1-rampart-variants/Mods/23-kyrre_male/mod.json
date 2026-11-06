@@ -29,7 +29,10 @@
 		"name" : "Кирре (Мужской)"
 	},
 	"swedish" : {
-		"name" : "Kyrre (Manlig)"
+		"name" : "Kyrre (Manlig)",
+		"translations" : [
+			"translation/swedish.json"
+		]
 	},
 	"ukrainian" : {
 		"name" : "Кирре (Чоловічий)"
