@@ -201,7 +201,7 @@
 	"mod.1-alternate_variants.1-rampart-variants.24-coronius_new_pose.name": "Крониус (Новая поза)",
 	"mod.1-alternate_variants.1-rampart-variants.27-gem_campaign.name": "Гем (Без Макияжа)",
 	"mod.1-alternate_variants.1-rampart-variants.27-gem_campaign_no_hood.name": "Гем (Кампания, Без Капюшона)",
-	"mod.1-alternate_variants.1-rampart-variants.27-gem_heroes_i&ii.name": "Гем (Герои I & II)",
+	"mod.1-alternate_variants.1-rampart-variants.27-gem_heroes_i_ii.name": "Гем (Герои I & II)",
 	"mod.1-alternate_variants.1-rampart-variants.27-gem_heroes_iv.name": "Гем (Heroes IV)",
 	"mod.1-alternate_variants.1-rampart-variants.27-gem_no_facepaint.name": "Гем (Без Макияжа)",
 	"mod.1-alternate_variants.2-tower-variants.name": "Тауэр",
@@ -217,7 +217,7 @@
 	"mod.1-alternate_variants.4-necropolis-variants.description": "Дополнительные портреты героев Necropolis.",
 	"mod.1-alternate_variants.4-necropolis-variants.73-aislinn_lich.name": "Аислинн (Лич)",
 	"mod.1-alternate_variants.4-necropolis-variants.73-aislinn_youthful.name": "Аислинн (молодая)",
-	"mod.1-alternate_variants.4-necropolis-variants.74-sandro_heroes_i&ii.name": "Сандро (Герои I & II)",
+	"mod.1-alternate_variants.4-necropolis-variants.74-sandro_heroes_i_ii.name": "Сандро (Герои I & II)",
 	"mod.1-alternate_variants.5-dungeon-variants.name": "Тюрьма",
 	"mod.1-alternate_variants.5-dungeon-variants.description": "Дополнительные портреты героев Dungeon.",
 	"mod.1-alternate_variants.5-dungeon-variants.88-alamar_heroes_ii.name": "Аламар (Heroes II)",
@@ -252,5 +252,5 @@
 	"mod.1-alternate_variants.9-campaign-variants.128-catherine_roe.name": "Кэтрин (RoE)",
 	"mod.1-alternate_variants.9-campaign-variants.128-catherine_roe_closeup.name": "Кэтрин (RoE крупный план)",
 	"mod.1-alternate_variants.9-campaign-variants.134-gem_campaign_no_hood.name": "Гем (Без Капюшона)",
-	"mod.1-alternate_variants.9-campaign-variants.134-gem_heroes_i&ii.name": "Гем (Герои I & II)"
+	"mod.1-alternate_variants.9-campaign-variants.134-gem_heroes_i_ii.name": "Гем (Герои I & II)"
 }

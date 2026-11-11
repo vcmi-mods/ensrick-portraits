@@ -201,7 +201,7 @@
     "mod.1-alternate_variants.1-rampart-variants.24-coronius_new_pose.name": "Coronius (alternativ posering)",
     "mod.1-alternate_variants.1-rampart-variants.27-gem_campaign.name": "Gem (kampanj)",
     "mod.1-alternate_variants.1-rampart-variants.27-gem_campaign_no_hood.name": "Gem (kampanj, utan huvudbonad)",
-    "mod.1-alternate_variants.1-rampart-variants.27-gem_heroes_i&ii.name": "Gem (Heroes I & II)",
+    "mod.1-alternate_variants.1-rampart-variants.27-gem_heroes_i_ii.name": "Gem (Heroes I & II)",
     "mod.1-alternate_variants.1-rampart-variants.27-gem_heroes_iv.name": "Gem (Heroes IV)",
     "mod.1-alternate_variants.1-rampart-variants.27-gem_no_facepaint.name": "Gem (utan ansiktsmålning)",
     "mod.1-alternate_variants.2-tower-variants.name": "Torn (Tower)",
@@ -217,7 +217,7 @@
     "mod.1-alternate_variants.4-necropolis-variants.description": "Alternativa porträtt för nekroborgens hjältar.",
     "mod.1-alternate_variants.4-necropolis-variants.73-aislinn_lich.name": "Aislinn (dödsmagiker)",
     "mod.1-alternate_variants.4-necropolis-variants.73-aislinn_youthful.name": "Aislinn (ung)",
-    "mod.1-alternate_variants.4-necropolis-variants.74-sandro_heroes_i&ii.name": "Sandro (Heroes I & II)",
+    "mod.1-alternate_variants.4-necropolis-variants.74-sandro_heroes_i_ii.name": "Sandro (Heroes I & II)",
     "mod.1-alternate_variants.5-dungeon-variants.name": "Grotthålan (Dungeon)",
     "mod.1-alternate_variants.5-dungeon-variants.description": "Alternativa porträtt för grotthålans hjältar.",
     "mod.1-alternate_variants.5-dungeon-variants.88-alamar_heroes_ii.name": "Alamar (Heroes II)",
@@ -252,5 +252,5 @@
     "mod.1-alternate_variants.9-campaign-variants.128-catherine_roe.name": "Catherine (RoE)",
     "mod.1-alternate_variants.9-campaign-variants.128-catherine_roe_closeup.name": "Catherine (RoE närbild)",
     "mod.1-alternate_variants.9-campaign-variants.134-gem_campaign_no_hood.name": "Gem (utan huvudbonad)",
-    "mod.1-alternate_variants.9-campaign-variants.134-gem_heroes_i&ii.name": "Gem (Heroes I & II)"
+    "mod.1-alternate_variants.9-campaign-variants.134-gem_heroes_i_ii.name": "Gem (Heroes I & II)"
 }
