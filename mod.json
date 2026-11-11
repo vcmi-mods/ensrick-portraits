@@ -6,7 +6,7 @@
 	"author" : "Ensrick",
 	"contact" : "https://forum.vcmi.eu/t/ensricks-portrait-pack-for-vcmi/6028",
 	"modType" : "Graphical",
-	"version" : "2.0",
+	"version" : "2.1",
 	"compatibility" : {
 		"min" : "1.6.8"
 	},
@@ -31,6 +31,9 @@
 		],
 		"2.0" : [
 			"Rebuild of portraits from the ground up for HD interface, removed submods for HotA, ToW etc. until I can remake them, added 3 new submods"
+		],
+		"2.1" : [
+			"Updated to VCMI 1.8 format"
 		]
 	},
 	"czech" : {
