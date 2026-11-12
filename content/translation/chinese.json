@@ -201,7 +201,7 @@
 	"mod.1-alternate_variants.1-rampart-variants.24-coronius_new_pose.name": "科罗纽斯（新姿势）",
 	"mod.1-alternate_variants.1-rampart-variants.27-gem_campaign.name": "宝石（无面妆）",
 	"mod.1-alternate_variants.1-rampart-variants.27-gem_campaign_no_hood.name": "宝石（战役，无帽）",
-	"mod.1-alternate_variants.1-rampart-variants.27-gem_heroes_i&ii.name": "宝石（英雄无敌I & II）",
+	"mod.1-alternate_variants.1-rampart-variants.27-gem_heroes_i_ii.name": "宝石（英雄无敌I & II）",
 	"mod.1-alternate_variants.1-rampart-variants.27-gem_heroes_iv.name": "宝石（英雄IV）",
 	"mod.1-alternate_variants.1-rampart-variants.27-gem_no_facepaint.name": "宝石（无面妆）",
 	"mod.1-alternate_variants.2-tower-variants.name": "塔楼",
@@ -217,7 +217,7 @@
 	"mod.1-alternate_variants.4-necropolis-variants.description": "墓园英雄可选头像。",
 	"mod.1-alternate_variants.4-necropolis-variants.73-aislinn_lich.name": "艾斯琳（巫妖）",
 	"mod.1-alternate_variants.4-necropolis-variants.73-aislinn_youthful.name": "艾斯琳（年轻）",
-	"mod.1-alternate_variants.4-necropolis-variants.74-sandro_heroes_i&ii.name": "桑德罗（英雄I & II）",
+	"mod.1-alternate_variants.4-necropolis-variants.74-sandro_heroes_i_ii.name": "桑德罗（英雄I & II）",
 	"mod.1-alternate_variants.5-dungeon-variants.name": "地牢",
 	"mod.1-alternate_variants.5-dungeon-variants.description": "Dungeon 英雄可选头像。",
 	"mod.1-alternate_variants.5-dungeon-variants.88-alamar_heroes_ii.name": "阿拉马尔（英雄II）",
@@ -252,5 +252,5 @@
 	"mod.1-alternate_variants.9-campaign-variants.128-catherine_roe.name": "凯瑟琳（RoE）",
 	"mod.1-alternate_variants.9-campaign-variants.128-catherine_roe_closeup.name": "凯瑟琳（RoE 特写）",
 	"mod.1-alternate_variants.9-campaign-variants.134-gem_campaign_no_hood.name": "宝石（无帽）",
-	"mod.1-alternate_variants.9-campaign-variants.134-gem_heroes_i&ii.name": "宝石（英雄无敌I & II）"
+	"mod.1-alternate_variants.9-campaign-variants.134-gem_heroes_i_ii.name": "宝石（英雄无敌I & II）"
 }
